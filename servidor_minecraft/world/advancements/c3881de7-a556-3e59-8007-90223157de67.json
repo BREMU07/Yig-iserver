@@ -568,7 +568,8 @@
       "minecraft:river": "2024-12-02 01:01:33 +0000",
       "minecraft:cold_ocean": "2024-12-02 01:22:06 +0000",
       "minecraft:forest": "2024-12-02 01:17:44 +0000",
-      "minecraft:deep_cold_ocean": "2024-12-02 01:25:30 +0000"
+      "minecraft:deep_cold_ocean": "2024-12-02 01:25:30 +0000",
+      "minecraft:plains": "2024-12-02 01:31:34 +0000"
     },
     "done": false
   },
@@ -980,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-02 01:33:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2024-12-02 01:20:31 +0000"
@@ -1004,9 +1011,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-12-02 01:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-02 01:22:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-02 01:29:37 +0000"
     },
     "done": true
   },
@@ -1094,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 01:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-02 01:21:04 +0000"
@@ -1136,9 +1161,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_trampoline": {
+    "criteria": {
+      "has_wool": "2024-12-02 01:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-02 01:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-02 01:33:21 +0000"
     },
     "done": true
   },
@@ -1301,6 +1338,18 @@
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-02 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "anchovy": "2024-12-02 01:35:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 01:33:20 +0000"
     },
     "done": true
   },
@@ -1641,6 +1690,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2024-12-02 01:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-02 01:21:04 +0000"
@@ -1821,6 +1876,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2024-12-02 01:35:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2024-12-02 01:16:38 +0000"
@@ -1866,6 +1927,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-02 01:05:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-02 01:33:20 +0000"
     },
     "done": true
   },
@@ -1917,6 +1984,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 01:33:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2024-12-02 01:15:40 +0000"
@@ -1955,7 +2028,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "seasonal_forest": "2024-12-02 01:17:56 +0000"
+      "muskeg": "2024-12-02 01:37:33 +0000",
+      "coniferous_forest": "2024-12-02 01:28:53 +0000",
+      "seasonal_forest": "2024-12-02 01:17:56 +0000",
+      "fir_clearing": "2024-12-02 01:37:14 +0000",
+      "pumpkin_patch": "2024-12-02 01:37:32 +0000",
+      "snowy_fir_clearing": "2024-12-02 01:38:03 +0000"
     },
     "done": false
   },
@@ -1983,6 +2061,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/black_wool_slab": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 01:33:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_iron_nugget": "2024-12-02 01:23:09 +0000"
@@ -1995,9 +2079,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 01:33:20 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-02 01:28:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-02 01:29:37 +0000"
     },
     "done": true
   },
@@ -2070,6 +2166,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-02 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-02 01:29:37 +0000"
     },
     "done": true
   },
@@ -2193,6 +2295,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-02 01:29:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-02 01:20:31 +0000"
@@ -2241,9 +2349,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-02 01:33:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-02 01:33:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-02 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-02 01:29:37 +0000"
     },
     "done": true
   },
@@ -2262,6 +2388,12 @@
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2024-12-02 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2024-12-02 01:35:15 +0000"
     },
     "done": true
   },
@@ -2316,6 +2448,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-02 01:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-02 01:33:21 +0000"
     },
     "done": true
   },
@@ -2442,7 +2580,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-02 01:20:58 +0000",
-      "sweet_berries": "2024-12-02 01:10:17 +0000"
+      "sweet_berries": "2024-12-02 01:10:17 +0000",
+      "cooked_salmon": "2024-12-02 01:32:49 +0000"
     },
     "done": false
   },
@@ -2473,6 +2612,12 @@
   "new_slab_variants:recipes/building_blocks/red_wool_slab": {
     "criteria": {
       "has_red_wool": "2024-12-02 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-02 01:29:56 +0000"
     },
     "done": true
   },

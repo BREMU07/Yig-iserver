@@ -10897,3 +10897,244 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 01:31:58.676] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
 [02Dec2024 01:31:58.680] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
 [02Dec2024 01:31:58.684] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[02Dec2024 01:32:35.521] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[02Dec2024 01:33:22.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [An Extra Seedy Place]
+[02Dec2024 01:33:52.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[02Dec2024 01:33:52.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:33:52.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:34:17.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Fishy Business]
+[02Dec2024 01:36:28.936] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[02Dec2024 01:36:32.761] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:lava_fountain
+[02Dec2024 01:36:32.778] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:meteor
+[02Dec2024 01:36:32.783] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[02Dec2024 01:36:32.790] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[02Dec2024 01:36:32.811] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[02Dec2024 01:36:32.816] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[02Dec2024 01:36:33.593] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[02Dec2024 01:36:33.599] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[02Dec2024 01:36:33.700] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[02Dec2024 01:36:35.611] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[02Dec2024 01:36:35.617] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[02Dec2024 01:36:37.611] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-1195, y=75, z=-203}
+[02Dec2024 01:36:39.392] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[02Dec2024 01:36:39.565] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1195, y=75, z=-203} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02Dec2024 01:36:39.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1195, y=75, z=-203}
+[02Dec2024 01:36:40.163] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_2
+[02Dec2024 01:36:40.170] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_3
+[02Dec2024 01:36:40.176] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[02Dec2024 01:36:40.182] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_1
+[02Dec2024 01:36:40.187] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_3
+[02Dec2024 01:36:40.193] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_4
+[02Dec2024 01:36:40.198] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_2
+[02Dec2024 01:36:41.670] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[02Dec2024 01:36:41.682] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[02Dec2024 01:36:41.695] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[02Dec2024 01:36:41.702] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[02Dec2024 01:36:41.711] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[02Dec2024 01:36:41.717] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[02Dec2024 01:36:41.724] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[02Dec2024 01:36:41.738] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[02Dec2024 01:36:41.823] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[02Dec2024 01:36:41.824] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[02Dec2024 01:36:41.837] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[02Dec2024 01:36:41.843] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[02Dec2024 01:36:41.863] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[02Dec2024 01:36:41.864] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[02Dec2024 01:36:41.870] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[02Dec2024 01:36:41.877] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[02Dec2024 01:36:50.693] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 01:37:05.622] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[02Dec2024 01:37:06.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[02Dec2024 01:37:06.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[02Dec2024 01:37:06.473] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[02Dec2024 01:37:06.476] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[02Dec2024 01:37:06.480] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[02Dec2024 01:37:06.484] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[02Dec2024 01:37:06.488] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[02Dec2024 01:37:06.491] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[02Dec2024 01:37:06.495] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[02Dec2024 01:37:06.507] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[02Dec2024 01:37:06.513] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[02Dec2024 01:37:06.517] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[02Dec2024 01:37:06.521] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[02Dec2024 01:37:06.527] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[02Dec2024 01:37:06.531] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[02Dec2024 01:37:06.535] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[02Dec2024 01:37:06.538] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[02Dec2024 01:37:06.542] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[02Dec2024 01:37:06.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[02Dec2024 01:37:06.554] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[02Dec2024 01:37:06.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[02Dec2024 01:37:06.563] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[02Dec2024 01:37:06.567] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[02Dec2024 01:37:06.574] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[02Dec2024 01:37:07.309] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_1
+[02Dec2024 01:37:07.322] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_2
+[02Dec2024 01:37:18.727] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[02Dec2024 01:37:46.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[02Dec2024 01:37:57.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Ambush]
+[02Dec2024 01:38:01.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_1
+[02Dec2024 01:38:01.322] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snowman_2
+[02Dec2024 01:38:04.656] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[02Dec2024 01:38:04.665] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_2
+[02Dec2024 01:38:15.423] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:illager_house_1
+[02Dec2024 01:38:21.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 01:38:52.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:38:52.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:39:24.144] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:meteor
+[02Dec2024 01:39:24.150] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:lava_fountain
+[02Dec2024 01:39:29.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[02Dec2024 01:39:34.102] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[02Dec2024 01:39:34.108] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[02Dec2024 01:39:34.113] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[02Dec2024 01:39:34.113] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[02Dec2024 01:39:34.113] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_3
+[02Dec2024 01:39:34.117] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[02Dec2024 01:39:34.117] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[02Dec2024 01:39:34.121] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[02Dec2024 01:39:34.121] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[02Dec2024 01:39:34.686] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[02Dec2024 01:39:34.688] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[02Dec2024 01:39:34.907] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[02Dec2024 01:39:34.913] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[02Dec2024 01:39:34.914] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[02Dec2024 01:39:34.915] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[02Dec2024 01:39:34.925] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[02Dec2024 01:39:34.934] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[02Dec2024 01:39:41.267] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[02Dec2024 01:39:41.273] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[02Dec2024 01:39:41.326] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[02Dec2024 01:39:41.330] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[02Dec2024 01:39:41.334] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[02Dec2024 01:39:41.338] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[02Dec2024 01:39:41.341] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[02Dec2024 01:39:41.346] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[02Dec2024 01:39:41.658] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[02Dec2024 01:39:41.662] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[02Dec2024 01:39:41.666] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[02Dec2024 01:39:41.670] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[02Dec2024 01:39:41.673] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[02Dec2024 01:39:41.677] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[02Dec2024 01:39:41.681] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[02Dec2024 01:39:41.684] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[02Dec2024 01:39:41.688] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[02Dec2024 01:39:41.692] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[02Dec2024 01:39:41.697] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[02Dec2024 01:39:41.702] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[02Dec2024 01:39:44.486] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[02Dec2024 01:39:45.235] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[02Dec2024 01:39:45.240] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[02Dec2024 01:39:45.245] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[02Dec2024 01:39:45.251] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[02Dec2024 01:39:45.257] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[02Dec2024 01:39:45.433] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[02Dec2024 01:39:45.434] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[02Dec2024 01:39:45.437] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[02Dec2024 01:39:45.441] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[02Dec2024 01:39:45.446] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[02Dec2024 01:39:45.479] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[02Dec2024 01:39:45.485] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[02Dec2024 01:39:45.486] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[02Dec2024 01:39:45.490] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[02Dec2024 01:39:45.500] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[02Dec2024 01:39:45.506] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[02Dec2024 01:39:45.513] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[02Dec2024 01:39:45.561] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[02Dec2024 01:39:45.568] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[02Dec2024 01:39:45.572] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[02Dec2024 01:39:45.576] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[02Dec2024 01:39:45.580] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_5
+[02Dec2024 01:39:45.947] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[02Dec2024 01:39:45.954] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[02Dec2024 01:39:45.959] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[02Dec2024 01:39:45.963] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[02Dec2024 01:39:45.967] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[02Dec2024 01:39:45.970] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[02Dec2024 01:39:45.975] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[02Dec2024 01:39:45.978] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[02Dec2024 01:39:48.150] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[02Dec2024 01:39:48.156] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[02Dec2024 01:39:48.162] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[02Dec2024 01:39:48.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[02Dec2024 01:39:48.172] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[02Dec2024 01:39:49.255] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-1189, y=71, z=-597}
+[02Dec2024 01:39:49.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1189, y=71, z=-598} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02Dec2024 01:39:49.289] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1189, y=71, z=-598}
+[02Dec2024 01:39:49.290] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1189, y=70, z=-598} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[02Dec2024 01:39:49.290] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1189, y=70, z=-598}
+[02Dec2024 01:39:51.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1189, y=71, z=-597} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02Dec2024 01:39:51.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1189, y=71, z=-597}
+[02Dec2024 01:39:52.671] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[02Dec2024 01:39:52.676] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[02Dec2024 01:39:52.679] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[02Dec2024 01:39:52.683] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[02Dec2024 01:39:52.687] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[02Dec2024 01:39:52.690] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[02Dec2024 01:39:52.694] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[02Dec2024 01:39:52.700] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[02Dec2024 01:39:52.708] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[02Dec2024 01:39:52.719] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[02Dec2024 01:39:52.729] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[02Dec2024 01:39:52.735] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[02Dec2024 01:39:52.742] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[02Dec2024 01:39:52.758] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[02Dec2024 01:39:52.769] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[02Dec2024 01:39:52.774] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[02Dec2024 01:39:52.780] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[02Dec2024 01:39:52.786] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[02Dec2024 01:39:52.793] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[02Dec2024 01:39:52.799] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[02Dec2024 01:39:52.804] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[02Dec2024 01:39:52.810] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[02Dec2024 01:39:52.823] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[02Dec2024 01:39:52.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[02Dec2024 01:39:52.834] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[02Dec2024 01:39:52.838] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[02Dec2024 01:39:52.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[02Dec2024 01:39:52.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[02Dec2024 01:39:52.853] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[02Dec2024 01:39:52.860] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[02Dec2024 01:39:52.860] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[02Dec2024 01:39:52.861] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[02Dec2024 01:39:52.865] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[02Dec2024 01:39:52.866] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[02Dec2024 01:39:52.869] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[02Dec2024 01:39:52.873] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[02Dec2024 01:39:52.880] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[02Dec2024 01:39:52.886] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[02Dec2024 01:39:52.891] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[02Dec2024 01:39:52.910] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[02Dec2024 01:39:52.917] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[02Dec2024 01:39:53.584] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_3
+[02Dec2024 01:39:53.588] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_2
+[02Dec2024 01:39:53.592] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_1
+[02Dec2024 01:39:55.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[02Dec2024 01:39:59.022] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_2
+[02Dec2024 01:39:59.030] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[02Dec2024 01:39:59.036] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[02Dec2024 01:39:59.124] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[02Dec2024 01:39:59.132] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[02Dec2024 01:39:59.138] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[02Dec2024 01:39:59.145] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[02Dec2024 01:40:00.156] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_ruin_1
+[02Dec2024 01:40:00.164] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ruin_1
+[02Dec2024 01:40:09.302] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 01:40:09.339] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[02Dec2024 01:40:09.345] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[02Dec2024 01:40:22.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Disme A Dozen]
+[02Dec2024 01:40:56.563] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[02Dec2024 01:40:56.569] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_1
+[02Dec2024 01:40:56.573] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[02Dec2024 01:40:56.578] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[02Dec2024 01:40:56.582] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_tomb_2
+[02Dec2024 01:41:57.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_nether_portal
+[02Dec2024 01:41:59.454] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[02Dec2024 01:41:59.461] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_2
+[02Dec2024 01:41:59.472] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_3
+[02Dec2024 01:41:59.500] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_2
+[02Dec2024 01:41:59.516] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[02Dec2024 01:42:07.731] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:maya_temple
+[02Dec2024 01:42:13.145] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[02Dec2024 01:42:17.492] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[02Dec2024 01:42:17.502] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[02Dec2024 01:42:25.639] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:illager_house_1
