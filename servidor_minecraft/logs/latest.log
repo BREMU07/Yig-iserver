@@ -1217,3 +1217,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 00:58:31.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Knowledge raises the soul]
 [02Dec2024 00:58:55.868] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
 [02Dec2024 01:00:18.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-32, y=74, z=-30}
+[02Dec2024 01:02:58.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirMorqui lost connection: Disconnected
+[02Dec2024 01:02:58.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui left the game
+[02Dec2024 01:03:05.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirMorqui[/127.35.73.236:40615] logged in with entity id 2288 at (-17.30000001192093, 63.0, -2.300000011920929)
+[02Dec2024 01:03:05.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui joined the game
+[02Dec2024 01:03:05.595] [Server thread/INFO] [Jade/]: Syncing config to SirMorqui (c3881de7-a556-3e59-8007-90223157de67)
+[02Dec2024 01:04:57.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set the time to 1000]
+[02Dec2024 01:05:39.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set own game mode to Creative Mode]
+[02Dec2024 01:09:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set own game mode to Survival Mode]
+[02Dec2024 01:09:59.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=65, z=-32} BlockPos{x=32, y=65, z=-31}
+[02Dec2024 01:10:31.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-34, y=71, z=-26}
+[02Dec2024 01:10:31.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-34, y=72, z=-27}
+[02Dec2024 01:10:31.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-35, y=72, z=-27}
+[02Dec2024 01:10:31.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-36, y=72, z=-26}
+[02Dec2024 01:10:32.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-37, y=72, z=-25}
+[02Dec2024 01:10:32.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-36, y=72, z=-26}
+[02Dec2024 01:10:32.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-34, y=71, z=-26}
