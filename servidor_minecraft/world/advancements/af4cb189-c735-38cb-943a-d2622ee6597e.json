@@ -1862,6 +1862,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2024-12-02 02:17:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2024-12-02 01:00:28 +0000"
@@ -1913,6 +1919,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 01:59:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-02 02:12:23 +0000"
     },
     "done": true
   },
@@ -2105,6 +2117,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2024-12-02 01:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-02 02:09:17 +0000"
     },
     "done": true
   },
@@ -2452,6 +2470,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-02 02:17:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-02 01:47:53 +0000"
@@ -2607,6 +2631,7 @@
     "criteria": {
       "cooked_shrimp": "2024-12-02 01:36:05 +0000",
       "anchovy": "2024-12-02 01:34:54 +0000",
+      "glowing_calamari": "2024-12-02 02:12:23 +0000",
       "oyster": "2024-12-02 01:36:05 +0000"
     },
     "done": false
@@ -2864,6 +2889,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-02 02:13:42 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 01:59:42 +0000"
@@ -3023,6 +3054,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-02 01:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-02 02:17:52 +0000"
     },
     "done": true
   },
@@ -3488,6 +3525,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-02 02:12:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-02 01:21:41 +0000"
@@ -3617,6 +3660,12 @@
   "mcwlights:recipes/gold_stuff": {
     "criteria": {
       "has_wood": "2024-12-02 01:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-02 02:12:30 +0000"
     },
     "done": true
   },
@@ -4554,6 +4603,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2024-12-02 01:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-02 02:09:17 +0000"
     },
     "done": true
   },

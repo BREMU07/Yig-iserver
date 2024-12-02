@@ -14602,3 +14602,423 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 02:13:00.555] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1268.22, y=27.00, z=-1247.87]
 [02Dec2024 02:13:07.151] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1259.02, y=27.00, z=-1273.68], dimensionLocationPath overworld
 [02Dec2024 02:13:07.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1259.02, y=27.00, z=-1273.68] in list []
+[02Dec2024 02:13:27.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1262.54, y=27.00, z=-1254.35]
+[02Dec2024 02:13:28.404] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1267.85, y=27.00, z=-1248.08], dimensionLocationPath overworld
+[02Dec2024 02:13:28.404] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1267.85, y=27.00, z=-1248.08] in list []
+[02Dec2024 02:13:34.950] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1268.99, y=27.00, z=-1248.61]
+[02Dec2024 02:13:35.357] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1262.03, y=27.00, z=-1253.41], dimensionLocationPath overworld
+[02Dec2024 02:13:35.357] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1262.03, y=27.00, z=-1253.41] in list []
+[02Dec2024 02:13:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Close Quarters]
+[02Dec2024 02:13:58.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:13:58.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:14:01.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1253.29, y=27.00, z=-1253.98], dimensionLocationPath overworld
+[02Dec2024 02:14:01.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1253.29, y=27.00, z=-1253.98] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:14:03.100] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1250.67, y=28.17, z=-1250.44]
+[02Dec2024 02:14:04.657] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1249.71, y=27.00, z=-1246.61], dimensionLocationPath overworld
+[02Dec2024 02:14:04.657] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1249.71, y=27.00, z=-1246.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:14:06.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1255.94, y=27.00, z=-1250.46]
+[02Dec2024 02:14:09.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1249.88, y=27.00, z=-1246.41]
+[02Dec2024 02:14:14.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1248.89, y=27.00, z=-1245.30], dimensionLocationPath overworld
+[02Dec2024 02:14:14.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1248.89, y=27.00, z=-1245.30] in list []
+[02Dec2024 02:14:19.450] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1249.00, y=27.00, z=-1245.70]
+[02Dec2024 02:14:19.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1245.30, y=28.75, z=-1242.31], dimensionLocationPath overworld
+[02Dec2024 02:14:19.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1245.30, y=28.75, z=-1242.31] in list []
+[02Dec2024 02:14:20.150] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1244.30, y=29.00, z=-1242.32]
+[02Dec2024 02:14:23.151] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1245.10, y=30.00, z=-1243.11], dimensionLocationPath overworld
+[02Dec2024 02:14:23.151] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1245.10, y=30.00, z=-1243.11] in list []
+[02Dec2024 02:14:30.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1247.28, y=24.00, z=-1238.25], dimensionLocationPath overworld
+[02Dec2024 02:14:30.401] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1247.28, y=24.00, z=-1238.25] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:14:30.452] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1247.64, y=26.00, z=-1243.97]
+[02Dec2024 02:14:31.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1247.28, y=24.00, z=-1238.25]
+[02Dec2024 02:14:39.199] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1247.30, y=27.00, z=-1244.84], dimensionLocationPath overworld
+[02Dec2024 02:14:39.199] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1247.30, y=27.00, z=-1244.84] in list []
+[02Dec2024 02:14:39.600] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1247.30, y=27.00, z=-1245.51]
+[02Dec2024 02:14:53.158] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1245.30, y=25.18, z=-1237.29], dimensionLocationPath overworld
+[02Dec2024 02:14:53.158] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1245.30, y=25.18, z=-1237.29] in list []
+[02Dec2024 02:14:54.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1244.25, y=26.25, z=-1235.58]
+[02Dec2024 02:14:54.801] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1243.31, y=27.00, z=-1235.58], dimensionLocationPath overworld
+[02Dec2024 02:14:54.801] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1243.31, y=27.00, z=-1235.58] in list []
+[02Dec2024 02:14:55.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1243.34, y=27.00, z=-1236.87]
+[02Dec2024 02:15:34.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1238.60, y=35.00, z=-1268.00], dimensionLocationPath overworld
+[02Dec2024 02:15:34.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1238.60, y=35.00, z=-1268.00] in list []
+[02Dec2024 02:15:56.957] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1251.84, y=35.00, z=-1275.22]
+[02Dec2024 02:16:00.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1254.73, y=35.00, z=-1267.55], dimensionLocationPath overworld
+[02Dec2024 02:16:00.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1254.73, y=35.00, z=-1267.55] in list []
+[02Dec2024 02:16:15.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1268.73, y=35.00, z=-1271.88], dimensionLocationPath overworld
+[02Dec2024 02:16:15.606] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1268.73, y=35.00, z=-1271.88] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@30a]
+[02Dec2024 02:16:16.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[02Dec2024 02:16:18.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1274.31, y=36.18, z=-1261.38]
+[02Dec2024 02:16:22.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[02Dec2024 02:16:22.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 02:16:22.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[02Dec2024 02:16:22.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[02Dec2024 02:16:24.225] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1508 | 19 | -1415)
+[02Dec2024 02:16:24.226] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1508 | 19 | -1415)
+[02Dec2024 02:16:24.226] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-1510 | 19 | -1399)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-1510 | 19 | -1399)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1508 | -8 | -1415)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1508 | -8 | -1415)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1506 | -8 | -1401)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-1506 | -8 | -1401)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1507 | -8 | -1406)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1507 | -8 | -1406)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-1511 | -8 | -1400)
+[02Dec2024 02:16:24.228] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-1511 | -8 | -1400)
+[02Dec2024 02:16:24.237] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-1510 | 19 | -1399)
+[02Dec2024 02:16:24.238] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-1510 | 19 | -1399)
+[02Dec2024 02:16:24.238] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-1511 | -8 | -1400)
+[02Dec2024 02:16:24.238] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_90 at (-1511 | -8 | -1400)
+[02Dec2024 02:16:27.171] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-1507 | 19 | -1424)
+[02Dec2024 02:16:27.172] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-1507 | 19 | -1424)
+[02Dec2024 02:16:27.172] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1508 | 19 | -1415)
+[02Dec2024 02:16:27.174] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1508 | 19 | -1415)
+[02Dec2024 02:16:27.174] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-1504 | 10 | -1423)
+[02Dec2024 02:16:27.174] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-1504 | 10 | -1423)
+[02Dec2024 02:16:27.174] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1499 | 10 | -1424)
+[02Dec2024 02:16:27.175] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1499 | 10 | -1424)
+[02Dec2024 02:16:27.175] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.175] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.176] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.176] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.176] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1507 | -8 | -1420)
+[02Dec2024 02:16:27.176] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1507 | -8 | -1420)
+[02Dec2024 02:16:27.176] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-1512 | -9 | -1437)
+[02Dec2024 02:16:27.177] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-1512 | -9 | -1437)
+[02Dec2024 02:16:27.177] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1508 | -8 | -1415)
+[02Dec2024 02:16:27.178] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1508 | -8 | -1415)
+[02Dec2024 02:16:27.329] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (-1505 | 24 | -1439)
+[02Dec2024 02:16:27.330] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (-1505 | 24 | -1439)
+[02Dec2024 02:16:27.330] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (-1502 | 19 | -1439)
+[02Dec2024 02:16:27.330] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (-1502 | 19 | -1439)
+[02Dec2024 02:16:27.330] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (-1507 | 19 | -1442)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (-1507 | 19 | -1442)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-1502 | 19 | -1432)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-1502 | 19 | -1432)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-1502 | 19 | -1428)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-1502 | 19 | -1428)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-1506 | 19 | -1433)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-1506 | 19 | -1433)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-1496 | 15 | -1439)
+[02Dec2024 02:16:27.331] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-1496 | 15 | -1439)
+[02Dec2024 02:16:27.332] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/hidden_piston with rotation CLOCKWISE_90 at (-1499 | 10 | -1439)
+[02Dec2024 02:16:27.332] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/hidden_piston with rotation CLOCKWISE_90 at (-1499 | 10 | -1439)
+[02Dec2024 02:16:27.332] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (-1497 | 10 | -1442)
+[02Dec2024 02:16:27.332] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (-1497 | 10 | -1442)
+[02Dec2024 02:16:27.333] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation NONE at (-1497 | 10 | -1436)
+[02Dec2024 02:16:27.333] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation NONE at (-1497 | 10 | -1436)
+[02Dec2024 02:16:27.333] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation COUNTERCLOCKWISE_90 at (-1493 | 10 | -1440)
+[02Dec2024 02:16:27.333] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation COUNTERCLOCKWISE_90 at (-1493 | 10 | -1440)
+[02Dec2024 02:16:27.333] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker_trap with rotation COUNTERCLOCKWISE_90 at (-1497 | 10 | -1440)
+[02Dec2024 02:16:27.333] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker_trap with rotation COUNTERCLOCKWISE_90 at (-1497 | 10 | -1440)
+[02Dec2024 02:16:27.333] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (-1498 | 10 | -1433)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (-1498 | 10 | -1433)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1490 | 10 | -1442)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1490 | 10 | -1442)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (-1497 | 8 | -1431)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (-1497 | 8 | -1431)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (-1497 | 8 | -1431)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (-1497 | 8 | -1431)
+[02Dec2024 02:16:27.334] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-1508 | 1 | -1432)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-1508 | 1 | -1432)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1508 | 1 | -1432)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1508 | 1 | -1432)
+[02Dec2024 02:16:27.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.336] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.338] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.339] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (-1503 | 1 | -1437)
+[02Dec2024 02:16:27.339] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1507 | -8 | -1442)
+[02Dec2024 02:16:27.339] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1507 | -8 | -1442)
+[02Dec2024 02:16:27.339] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-1495 | -8 | -1432)
+[02Dec2024 02:16:27.339] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (-1495 | -8 | -1432)
+[02Dec2024 02:16:27.339] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-1512 | -9 | -1437)
+[02Dec2024 02:16:27.341] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (-1512 | -9 | -1437)
+[02Dec2024 02:16:27.341] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1490 | -8 | -1432)
+[02Dec2024 02:16:27.341] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1490 | -8 | -1432)
+[02Dec2024 02:16:27.388] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 37 | -1458)
+[02Dec2024 02:16:27.389] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 37 | -1458)
+[02Dec2024 02:16:27.389] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 38 | -1458)
+[02Dec2024 02:16:27.389] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 38 | -1458)
+[02Dec2024 02:16:27.389] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 39 | -1458)
+[02Dec2024 02:16:27.389] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 39 | -1458)
+[02Dec2024 02:16:27.389] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 40 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 40 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 41 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 41 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 42 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 42 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 43 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 43 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 44 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 44 | -1458)
+[02Dec2024 02:16:27.390] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 45 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 45 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 46 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 46 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 47 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 47 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 48 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 48 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 49 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 49 | -1458)
+[02Dec2024 02:16:27.391] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 50 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 50 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 51 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 51 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 52 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 52 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 53 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 53 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 54 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 54 | -1458)
+[02Dec2024 02:16:27.392] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 55 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 55 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 56 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 56 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 57 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 57 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 58 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 58 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 59 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 59 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 60 | -1458)
+[02Dec2024 02:16:27.393] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 60 | -1458)
+[02Dec2024 02:16:27.394] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 61 | -1458)
+[02Dec2024 02:16:27.394] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 61 | -1458)
+[02Dec2024 02:16:27.394] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 62 | -1458)
+[02Dec2024 02:16:27.394] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 62 | -1458)
+[02Dec2024 02:16:27.394] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 63 | -1458)
+[02Dec2024 02:16:27.394] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 63 | -1458)
+[02Dec2024 02:16:27.401] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 64 | -1458)
+[02Dec2024 02:16:27.401] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 64 | -1458)
+[02Dec2024 02:16:27.402] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 65 | -1458)
+[02Dec2024 02:16:27.402] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 65 | -1458)
+[02Dec2024 02:16:27.402] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1510 | 66 | -1462)
+[02Dec2024 02:16:27.403] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1510 | 66 | -1462)
+[02Dec2024 02:16:27.405] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1508 | 28 | -1460)
+[02Dec2024 02:16:27.406] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1508 | 28 | -1460)
+[02Dec2024 02:16:27.406] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1459)
+[02Dec2024 02:16:27.406] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1459)
+[02Dec2024 02:16:27.406] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-1489 | 28 | -1454)
+[02Dec2024 02:16:27.406] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-1489 | 28 | -1454)
+[02Dec2024 02:16:27.406] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-1490 | 28 | -1458)
+[02Dec2024 02:16:27.406] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-1490 | 28 | -1458)
+[02Dec2024 02:16:27.407] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (-1502 | 19 | -1455)
+[02Dec2024 02:16:27.407] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (-1502 | 19 | -1455)
+[02Dec2024 02:16:27.407] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-1506 | 19 | -1460)
+[02Dec2024 02:16:27.407] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-1506 | 19 | -1460)
+[02Dec2024 02:16:27.407] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (-1508 | 19 | -1451)
+[02Dec2024 02:16:27.407] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (-1508 | 19 | -1451)
+[02Dec2024 02:16:27.408] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (-1507 | 19 | -1442)
+[02Dec2024 02:16:27.408] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (-1507 | 19 | -1442)
+[02Dec2024 02:16:27.408] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1508 | 10 | -1451)
+[02Dec2024 02:16:27.408] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1508 | 10 | -1451)
+[02Dec2024 02:16:27.408] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (-1499 | 10 | -1460)
+[02Dec2024 02:16:27.413] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (-1499 | 10 | -1460)
+[02Dec2024 02:16:27.414] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1499 | 10 | -1451)
+[02Dec2024 02:16:27.414] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1499 | 10 | -1451)
+[02Dec2024 02:16:27.414] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (-1497 | 10 | -1442)
+[02Dec2024 02:16:27.414] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_connector with rotation CLOCKWISE_180 at (-1497 | 10 | -1442)
+[02Dec2024 02:16:27.414] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1490 | 10 | -1459)
+[02Dec2024 02:16:27.414] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1490 | 10 | -1459)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1490 | 10 | -1451)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1490 | 10 | -1451)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1490 | 10 | -1442)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1490 | 10 | -1442)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.415] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.416] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.416] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.416] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.416] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (-1493 | 1 | -1449)
+[02Dec2024 02:16:27.416] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (-1493 | 1 | -1449)
+[02Dec2024 02:16:27.417] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (-1493 | 1 | -1449)
+[02Dec2024 02:16:27.417] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (-1493 | 1 | -1449)
+[02Dec2024 02:16:27.417] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (-1498 | 1 | -1448)
+[02Dec2024 02:16:27.417] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (-1498 | 1 | -1448)
+[02Dec2024 02:16:27.417] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/chest at (-1498 | 1 | -1448)
+[02Dec2024 02:16:27.417] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/chest at (-1498 | 1 | -1448)
+[02Dec2024 02:16:27.417] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1498 | 1 | -1451)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-1498 | 1 | -1451)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (-1498 | 1 | -1451)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (-1498 | 1 | -1451)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1498 | 1 | -1442)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.418] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.419] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.419] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.419] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1507 | -8 | -1447)
+[02Dec2024 02:16:27.419] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-1507 | -8 | -1447)
+[02Dec2024 02:16:27.419] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-1512 | -9 | -1464)
+[02Dec2024 02:16:27.420] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-1512 | -9 | -1464)
+[02Dec2024 02:16:27.421] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1507 | -8 | -1442)
+[02Dec2024 02:16:27.422] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (-1507 | -8 | -1442)
+[02Dec2024 02:16:27.583] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 37 | -1458)
+[02Dec2024 02:16:27.583] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 37 | -1458)
+[02Dec2024 02:16:27.583] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 38 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 38 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 39 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 39 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 40 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 40 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 41 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 41 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 42 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 42 | -1458)
+[02Dec2024 02:16:27.584] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 43 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 43 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 44 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 44 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 45 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 45 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 46 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 46 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 47 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 47 | -1458)
+[02Dec2024 02:16:27.585] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 48 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 48 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 49 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 49 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 50 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 50 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 51 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 51 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 52 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 52 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 53 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 53 | -1458)
+[02Dec2024 02:16:27.586] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 54 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 54 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 55 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 55 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 56 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 56 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 57 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 57 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 58 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 58 | -1458)
+[02Dec2024 02:16:27.587] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 59 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 59 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 60 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 60 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 61 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 61 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 62 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-1506 | 62 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 63 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-1506 | 63 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 64 | -1458)
+[02Dec2024 02:16:27.588] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-1506 | 64 | -1458)
+[02Dec2024 02:16:27.589] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 65 | -1458)
+[02Dec2024 02:16:27.589] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-1506 | 65 | -1458)
+[02Dec2024 02:16:27.589] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1510 | 66 | -1462)
+[02Dec2024 02:16:27.590] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-1510 | 66 | -1462)
+[02Dec2024 02:16:27.590] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1508 | 28 | -1478)
+[02Dec2024 02:16:27.591] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1508 | 28 | -1478)
+[02Dec2024 02:16:27.591] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (-1507 | 28 | -1469)
+[02Dec2024 02:16:27.591] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (-1507 | 28 | -1469)
+[02Dec2024 02:16:27.591] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1508 | 28 | -1460)
+[02Dec2024 02:16:27.591] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1508 | 28 | -1460)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1477)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1477)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1459)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1459)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1490 | 28 | -1478)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1490 | 28 | -1478)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (-1489 | 28 | -1459)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (-1489 | 28 | -1459)
+[02Dec2024 02:16:27.592] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-1490 | 28 | -1458)
+[02Dec2024 02:16:27.603] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (-1490 | 28 | -1458)
+[02Dec2024 02:16:27.603] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1508 | 19 | -1469)
+[02Dec2024 02:16:27.604] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1508 | 19 | -1469)
+[02Dec2024 02:16:27.604] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (-1502 | 19 | -1459)
+[02Dec2024 02:16:27.604] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (-1502 | 19 | -1459)
+[02Dec2024 02:16:27.604] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-1506 | 19 | -1460)
+[02Dec2024 02:16:27.604] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (-1506 | 19 | -1460)
+[02Dec2024 02:16:27.604] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1499 | 10 | -1469)
+[02Dec2024 02:16:27.605] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1499 | 10 | -1469)
+[02Dec2024 02:16:27.606] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (-1499 | 10 | -1460)
+[02Dec2024 02:16:27.606] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (-1499 | 10 | -1460)
+[02Dec2024 02:16:27.606] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1490 | 10 | -1459)
+[02Dec2024 02:16:27.606] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (-1490 | 10 | -1459)
+[02Dec2024 02:16:27.606] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.606] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.606] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.607] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1508 | 1 | -1459)
+[02Dec2024 02:16:27.607] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.607] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.607] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.607] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (-1499 | 1 | -1460)
+[02Dec2024 02:16:27.607] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.607] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.608] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.608] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1490 | 1 | -1458)
+[02Dec2024 02:16:27.608] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-1512 | -9 | -1464)
+[02Dec2024 02:16:27.611] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-1512 | -9 | -1464)
+[02Dec2024 02:16:27.892] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1508 | 28 | -1478)
+[02Dec2024 02:16:27.892] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1508 | 28 | -1478)
+[02Dec2024 02:16:27.892] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1477)
+[02Dec2024 02:16:27.892] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-1499 | 28 | -1477)
+[02Dec2024 02:16:27.892] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1490 | 28 | -1478)
+[02Dec2024 02:16:27.893] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1490 | 28 | -1478)
+[02Dec2024 02:16:33.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1268.75, y=31.50, z=-1278.42], dimensionLocationPath overworld
+[02Dec2024 02:16:33.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1268.75, y=31.50, z=-1278.42] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:16:37.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1265.14, y=27.00, z=-1285.09]
+[02Dec2024 02:16:44.249] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1260.96, y=27.00, z=-1279.18], dimensionLocationPath overworld
+[02Dec2024 02:16:44.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1260.96, y=27.00, z=-1279.18] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:16:46.950] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1265.70, y=28.12, z=-1284.84]
+[02Dec2024 02:17:03.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1264.02, y=35.00, z=-1271.84]
+[02Dec2024 02:17:07.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1269.12, y=35.00, z=-1274.24], dimensionLocationPath overworld
+[02Dec2024 02:17:07.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1269.12, y=35.00, z=-1274.24] in list []
+[02Dec2024 02:17:08.354] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1269.40, y=34.77, z=-1275.59], dimensionLocationPath overworld
+[02Dec2024 02:17:08.354] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1269.40, y=34.77, z=-1275.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:17:20.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1279.50, y=27.00, z=-1281.70]
+[02Dec2024 02:17:27.156] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1272.56, y=27.00, z=-1284.88], dimensionLocationPath overworld
+[02Dec2024 02:17:27.157] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1272.56, y=27.00, z=-1284.88] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:17:51.154] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1265.20, y=27.50, z=-1296.86]
+[02Dec2024 02:17:52.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1264.30, y=28.00, z=-1297.08], dimensionLocationPath overworld
+[02Dec2024 02:17:52.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1264.30, y=28.00, z=-1297.08] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@76fa]
+[02Dec2024 02:18:04.100] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1278.20, y=27.00, z=-1285.38]
+[02Dec2024 02:18:15.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1279.55, y=27.00, z=-1288.28]
+[02Dec2024 02:18:58.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:18:58.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:19:16.207] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1221.79, y=45.00, z=-1258.96], dimensionLocationPath overworld
+[02Dec2024 02:19:16.207] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1221.79, y=45.00, z=-1258.96] in list []
+[02Dec2024 02:19:38.798] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1225.75, y=45.00, z=-1268.46]
+[02Dec2024 02:19:55.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1231.19, y=47.50, z=-1262.50], dimensionLocationPath overworld
+[02Dec2024 02:19:55.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1231.19, y=47.50, z=-1262.50] in list []
+[02Dec2024 02:19:56.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Striker2785'/778, l='ServerLevel[world]', x=-1230.60, y=46.23, z=-1266.31]
+[02Dec2024 02:20:15.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Striker2785 lost connection: Disconnected
+[02Dec2024 02:20:15.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 left the game
+[02Dec2024 02:20:23.299] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1234.39, y=64.56, z=-1290.24], dimensionLocationPath overworld
+[02Dec2024 02:20:23.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1234.39, y=64.56, z=-1290.24] in list []
+[02Dec2024 02:20:23.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/30458, l='ServerLevel[world]', x=-1234.39, y=64.56, z=-1290.24]
+[02Dec2024 02:20:38.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirMorqui lost connection: Disconnected
+[02Dec2024 02:20:38.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui left the game
+[02Dec2024 02:21:07.647] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[02Dec2024 02:21:07.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 02:21:07.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 02:21:07.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 02:21:08.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 02:21:10.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Dec2024 02:21:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 02:21:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 02:21:10.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:21:10.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:21:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 02:21:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Dec2024 02:21:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 02:21:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 02:21:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 02:21:10.619] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[02Dec2024 02:21:10.621] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[02Dec2024 02:21:10.634] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

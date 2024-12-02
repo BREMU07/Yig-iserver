@@ -1332,3 +1332,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 02:10:45.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SirMorqui[/127.35.73.236:43955] logged in with entity id 30458 at (-1235.1180194396534, 64.5625, -1290.0497775072108)
 [02Dec2024 02:10:45.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui joined the game
 [02Dec2024 02:10:45.756] [Server thread/INFO] [Jade/]: Syncing config to SirMorqui (c3881de7-a556-3e59-8007-90223157de67)
+[02Dec2024 02:13:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Close Quarters]
+[02Dec2024 02:16:16.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[02Dec2024 02:20:15.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Striker2785 lost connection: Disconnected
+[02Dec2024 02:20:15.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 left the game
+[02Dec2024 02:20:38.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirMorqui lost connection: Disconnected
+[02Dec2024 02:20:38.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui left the game
+[02Dec2024 02:21:07.647] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[02Dec2024 02:21:07.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 02:21:07.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 02:21:07.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 02:21:08.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 02:21:10.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Dec2024 02:21:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 02:21:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 02:21:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 02:21:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Dec2024 02:21:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 02:21:10.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 02:21:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 02:21:10.634] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
