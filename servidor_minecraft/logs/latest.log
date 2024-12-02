@@ -1282,3 +1282,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 01:39:51.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1189, y=71, z=-597} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [02Dec2024 01:39:51.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1189, y=71, z=-597}
 [02Dec2024 01:40:22.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Disme A Dozen]
+[02Dec2024 01:43:01.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[02Dec2024 01:44:33.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Disme A Dozen]
+[02Dec2024 01:45:34.351] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[02Dec2024 01:45:45.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirMorqui moved too quickly! 5.813885982732927,2.0,-8.25006625556614
+[02Dec2024 01:45:45.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[02Dec2024 01:46:47.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Acquire Hardware]
+[02Dec2024 01:47:13.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Take Aim]
+[02Dec2024 01:48:43.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Take Aim]
+[02Dec2024 01:48:44.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Monster Hunter]
+[02Dec2024 01:49:28.914] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[02Dec2024 01:50:04.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[02Dec2024 01:50:46.916] [pool-7-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-885, y=104, z=-1115}
+[02Dec2024 01:50:49.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Dec2024 01:50:49.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-885, y=101, z=-1116} but found not block entity block Block{minecraft:stone_stairs}[facing=east,half=bottom,shape=straight,waterlogged=false] at location
+[02Dec2024 01:50:49.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=east,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=-885, y=101, z=-1116}
+[02Dec2024 01:50:49.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-884, y=101, z=-1116} but found not block entity block Block{minecraft:stone} at location
+[02Dec2024 01:50:49.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-884, y=101, z=-1116}
+[02Dec2024 01:50:49.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-884, y=102, z=-1116} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[02Dec2024 01:50:49.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=-884, y=102, z=-1116}
+[02Dec2024 01:50:49.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirMorqui moved too quickly! -5.530786852118581,-0.16610926093821377,-8.441343895246632
+[02Dec2024 01:50:49.174] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-885, y=104, z=-1115} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02Dec2024 01:50:49.175] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-885, y=104, z=-1115}
+[02Dec2024 01:50:58.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> a
+[02Dec2024 01:52:59.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[02Dec2024 01:54:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [When in Rome]
+[02Dec2024 01:57:14.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [When in Rome]
+[02Dec2024 01:57:23.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Suit Up]
+[02Dec2024 01:58:13.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [A Strange Grave Dust]
+[02Dec2024 01:59:21.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Ashes 'n Bones]
+[02Dec2024 01:59:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [A Strange Grave Dust]
+[02Dec2024 01:59:38.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Suit Up]
+[02Dec2024 01:59:56.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Knowledge of Death]
+[02Dec2024 01:59:56.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Ashes 'n Bones]
+[02Dec2024 02:00:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has reached the goal [Strong or Careful]
+[02Dec2024 02:00:33.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 was slain by Zombie
+[02Dec2024 02:00:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Your First Grave]
+[02Dec2024 02:00:33.569] [Server thread/INFO] [tombstone/]: The player Striker2785 has successfully been saved
