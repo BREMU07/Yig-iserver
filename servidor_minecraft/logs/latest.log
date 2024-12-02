@@ -1233,3 +1233,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 01:10:32.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-37, y=72, z=-25}
 [02Dec2024 01:10:32.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-36, y=72, z=-26}
 [02Dec2024 01:10:32.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-34, y=71, z=-26}
+[02Dec2024 01:15:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set the time to 1000]
+[02Dec2024 01:15:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Stone Age]
+[02Dec2024 01:16:19.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[02Dec2024 01:16:19.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[02Dec2024 01:16:19.861] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[02Dec2024 01:18:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [An Extra Seedy Place]
+[02Dec2024 01:20:37.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Getting an Upgrade]
+[02Dec2024 01:21:22.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[02Dec2024 01:21:41.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Acquire Hardware]
+[02Dec2024 01:22:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Barrel Booty]
+[02Dec2024 01:22:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Barrel Booty]
+[02Dec2024 01:22:45.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement ['X' Marks the Spot]
+[02Dec2024 01:23:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement ['X' Marks the Spot]
+[02Dec2024 01:26:05.001] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[02Dec2024 01:26:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Alex's Caves]
+[02Dec2024 01:26:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Alex's Caves]
+[02Dec2024 01:27:28.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Monster Hunter]
+[02Dec2024 01:27:33.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [It Belongs in a Museum]
+[02Dec2024 01:27:40.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[02Dec2024 01:27:40.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Sweet Dreams]
+[02Dec2024 01:27:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Sweet Dreams]
+[02Dec2024 01:27:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [It Belongs in a Museum]
+[02Dec2024 01:28:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has completed the challenge [Free Willy]
+[02Dec2024 01:28:09.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has completed the challenge [Free Willy]
+[02Dec2024 01:28:15.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Mine? Mine? Mine?]
+[02Dec2024 01:28:26.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Mine? Mine? Mine?]
+[02Dec2024 01:29:25.662] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[02Dec2024 01:30:34.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has reached the goal [When the Stew is Sus]
+[02Dec2024 01:31:15.766] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-1147, y=68, z=43}
+[02Dec2024 01:31:15.825] [pool-7-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[02Dec2024 01:31:19.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[02Dec2024 01:31:37.332] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType

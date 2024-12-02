@@ -10587,3 +10587,313 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 01:10:32.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-37, y=72, z=-25}
 [02Dec2024 01:10:32.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-36, y=72, z=-26}
 [02Dec2024 01:10:32.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=63, z=-11} BlockPos{x=-34, y=71, z=-26}
+[02Dec2024 01:13:49.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:13:49.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:15:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set the time to 1000]
+[02Dec2024 01:15:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Stone Age]
+[02Dec2024 01:16:14.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_2
+[02Dec2024 01:16:14.011] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_1
+[02Dec2024 01:16:16.858] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[02Dec2024 01:16:16.865] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_1
+[02Dec2024 01:16:17.146] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[02Dec2024 01:16:17.153] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[02Dec2024 01:16:17.154] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[02Dec2024 01:16:17.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_3
+[02Dec2024 01:16:17.162] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[02Dec2024 01:16:17.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[02Dec2024 01:16:17.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[02Dec2024 01:16:17.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[02Dec2024 01:16:17.169] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[02Dec2024 01:16:17.316] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[02Dec2024 01:16:19.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[02Dec2024 01:16:19.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[02Dec2024 01:16:19.861] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[02Dec2024 01:16:25.840] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[02Dec2024 01:16:26.510] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[02Dec2024 01:16:26.515] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[02Dec2024 01:16:27.421] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[02Dec2024 01:16:29.657] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[02Dec2024 01:16:29.663] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[02Dec2024 01:16:29.664] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
+[02Dec2024 01:16:29.670] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[02Dec2024 01:16:29.671] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[02Dec2024 01:16:36.531] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[02Dec2024 01:16:36.540] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[02Dec2024 01:16:36.559] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[02Dec2024 01:16:36.707] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[02Dec2024 01:16:36.712] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[02Dec2024 01:16:36.718] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[02Dec2024 01:16:36.723] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_3
+[02Dec2024 01:16:36.728] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[02Dec2024 01:16:36.734] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[02Dec2024 01:16:36.739] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[02Dec2024 01:16:36.752] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[02Dec2024 01:16:36.759] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[02Dec2024 01:16:36.764] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_1
+[02Dec2024 01:16:36.770] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[02Dec2024 01:16:36.775] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_log
+[02Dec2024 01:16:36.780] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[02Dec2024 01:16:36.786] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_jungle_tree_1
+[02Dec2024 01:16:36.791] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[02Dec2024 01:16:36.804] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_1
+[02Dec2024 01:16:36.810] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[02Dec2024 01:16:36.818] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[02Dec2024 01:16:36.824] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[02Dec2024 01:16:36.831] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_1
+[02Dec2024 01:16:36.840] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_jungle_log
+[02Dec2024 01:16:36.854] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[02Dec2024 01:16:36.863] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[02Dec2024 01:16:36.869] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_acacia_log
+[02Dec2024 01:16:36.874] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[02Dec2024 01:16:36.880] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:jungle_tree_hole
+[02Dec2024 01:16:36.885] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[02Dec2024 01:17:31.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:31.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.049] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.051] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.098] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.148] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.148] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.149] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.197] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.197] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.197] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40], dimensionLocationPath overworld
+[02Dec2024 01:17:32.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40] in list []
+[02Dec2024 01:17:32.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.33, y=70.00, z=-9.40]
+[02Dec2024 01:17:32.450] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.37, y=70.00, z=-9.31], dimensionLocationPath overworld
+[02Dec2024 01:17:32.450] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.37, y=70.00, z=-9.31] in list []
+[02Dec2024 01:17:32.451] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.37, y=70.00, z=-9.31]
+[02Dec2024 01:17:32.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.42, y=70.00, z=-9.17], dimensionLocationPath overworld
+[02Dec2024 01:17:32.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.42, y=70.00, z=-9.17] in list []
+[02Dec2024 01:17:32.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.42, y=70.00, z=-9.17]
+[02Dec2024 01:17:32.550] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.49, y=70.00, z=-9.00], dimensionLocationPath overworld
+[02Dec2024 01:17:32.550] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.49, y=70.00, z=-9.00] in list []
+[02Dec2024 01:17:32.550] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.49, y=70.00, z=-9.00]
+[02Dec2024 01:17:32.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.55, y=70.00, z=-8.81], dimensionLocationPath overworld
+[02Dec2024 01:17:32.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.55, y=70.00, z=-8.81] in list []
+[02Dec2024 01:17:32.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.55, y=70.00, z=-8.81]
+[02Dec2024 01:17:32.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.59, y=70.00, z=-8.66], dimensionLocationPath overworld
+[02Dec2024 01:17:32.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.59, y=70.00, z=-8.66] in list []
+[02Dec2024 01:17:32.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.59, y=70.00, z=-8.66]
+[02Dec2024 01:17:32.700] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.59, y=70.00, z=-8.66], dimensionLocationPath overworld
+[02Dec2024 01:17:32.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.59, y=70.00, z=-8.66] in list []
+[02Dec2024 01:17:32.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.59, y=70.00, z=-8.66]
+[02Dec2024 01:17:32.749] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.60, y=70.00, z=-8.63], dimensionLocationPath overworld
+[02Dec2024 01:17:32.749] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.60, y=70.00, z=-8.63] in list []
+[02Dec2024 01:17:32.750] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.60, y=70.00, z=-8.63]
+[02Dec2024 01:17:32.797] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.61, y=70.00, z=-8.61], dimensionLocationPath overworld
+[02Dec2024 01:17:32.798] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.61, y=70.00, z=-8.61] in list []
+[02Dec2024 01:17:32.798] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.61, y=70.00, z=-8.61]
+[02Dec2024 01:17:32.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.55, y=70.00, z=-8.52], dimensionLocationPath overworld
+[02Dec2024 01:17:32.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.55, y=70.00, z=-8.52] in list []
+[02Dec2024 01:17:32.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.55, y=70.00, z=-8.52]
+[02Dec2024 01:17:32.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.46, y=70.00, z=-8.39], dimensionLocationPath overworld
+[02Dec2024 01:17:32.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.46, y=70.00, z=-8.39] in list []
+[02Dec2024 01:17:32.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.46, y=70.00, z=-8.39]
+[02Dec2024 01:17:32.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.36, y=70.00, z=-8.24], dimensionLocationPath overworld
+[02Dec2024 01:17:32.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.36, y=70.00, z=-8.24] in list []
+[02Dec2024 01:17:32.956] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['SirMorqui'/2288, l='ServerLevel[world]', x=-196.36, y=70.00, z=-8.24]
+[02Dec2024 01:17:38.753] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:oasis_1 is being run through DFU (hash 1c0b28f97391de721fae104d29e5f476f952a18a473b27a29f5534b1c5fccf0a), this will cause launch time delays
+[02Dec2024 01:17:38.763] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:oasis_2 is being run through DFU (hash 73293cf3dd579d3ea5334b71e940320387e643fea749cead53b1fe5e51408e45), this will cause launch time delays
+[02Dec2024 01:17:54.977] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:snowman_2 is being run through DFU (hash a1c443212aa9c699d4db54c5db6ec5f9516cd336a78a8d0546cd7c9ba6074160), this will cause launch time delays
+[02Dec2024 01:17:54.992] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:snowman_1 is being run through DFU (hash 17c0dc2c4e096ad2b633c2e5ac2530f171313d2a992b0922b38c944f09119943), this will cause launch time delays
+[02Dec2024 01:17:57.843] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:nether_villager_house_1 is being run through DFU (hash 8bf0c6baaf042cfdc7da087031c5cf284f0edc56ac761333d9d241a8a3ccdf64), this will cause launch time delays
+[02Dec2024 01:17:58.281] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:villager_house_3 is being run through DFU (hash 1fe5f569a30a894c5ea9a547bfc80f4fd4f778de282a2d14df7b60e21bcff40e), this will cause launch time delays
+[02Dec2024 01:17:58.310] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:villager_house_1 is being run through DFU (hash 1b559bb817be7d0a3656f461fdc72d8f4952586a77456aa0d600bbee723dbbff), this will cause launch time delays
+[02Dec2024 01:17:58.372] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:farm_1 is being run through DFU (hash d155db6709a1b87196cb4fc2e607f6beaa29420dc7576638771da67ca7667eaa), this will cause launch time delays
+[02Dec2024 01:17:58.381] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:villager_house_4 is being run through DFU (hash 87760f22046dc7584829c9430688721233792ca4a56951280693bce6ce9ecc8c), this will cause launch time delays
+[02Dec2024 01:17:58.418] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:villager_house_2 is being run through DFU (hash 8299605fb3705bda08a42e61436868d7bc4027bbc63705eda5b61b16f2b9ecf2), this will cause launch time delays
+[02Dec2024 01:17:58.444] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[02Dec2024 01:18:02.707] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:illager_house_1 is being run through DFU (hash 7f1a0e2d1780d66e30fb678c733389e6a5c52ea418dd7647316fa2134a215633), this will cause launch time delays
+[02Dec2024 01:18:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [An Extra Seedy Place]
+[02Dec2024 01:18:09.059] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_1
+[02Dec2024 01:18:09.064] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_3
+[02Dec2024 01:18:09.068] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_2
+[02Dec2024 01:18:09.071] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_4
+[02Dec2024 01:18:15.706] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_2
+[02Dec2024 01:18:15.710] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[02Dec2024 01:18:15.714] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_3
+[02Dec2024 01:18:20.982] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:lava_fountain
+[02Dec2024 01:18:20.988] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:meteor
+[02Dec2024 01:18:49.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:18:49.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:20:37.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Getting an Upgrade]
+[02Dec2024 01:21:20.109] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:end_spawn_altar_1 is being run through DFU (hash 7f2c5faac9c55158c3d316161cb79d601ba872ba0bdceddc70984a47a3e299bd), this will cause launch time delays
+[02Dec2024 01:21:20.272] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:end_spawn_altar_2 is being run through DFU (hash 55eb6900e99e7df011935b2ab717373d3a55d75453e7c7371f5a04e061974223), this will cause launch time delays
+[02Dec2024 01:21:20.391] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:nether_spawn_altar_3 is being run through DFU (hash da4482098493d457fc12707a50145890e43111debae71664f648ef050436b39f), this will cause launch time delays
+[02Dec2024 01:21:20.414] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:nether_spawn_altar_1 is being run through DFU (hash 805a411ab06202f814e553be73786cb97e4d680a2f18e9dc538b8f7dd151d169), this will cause launch time delays
+[02Dec2024 01:21:20.421] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:nether_spawn_altar_2 is being run through DFU (hash 72066d1cc0424d495ec616d091b92d32e3de208110a786c3f186ba7560efb9ab), this will cause launch time delays
+[02Dec2024 01:21:20.428] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:spawn_altar_2 is being run through DFU (hash 3bc32467c8d2e364af7e8bd2b8ed88609680173f3f5c6d1a6f5e382c8fa47036), this will cause launch time delays
+[02Dec2024 01:21:20.442] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:spawn_altar_3 is being run through DFU (hash 9ccdbaf94d9180a0e4eb51b40c528b12e0c43705078055395001253e0c1a3cf5), this will cause launch time delays
+[02Dec2024 01:21:20.468] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:spawn_altar_1 is being run through DFU (hash ec2db7b317bdeb8cd25ded7c558dd5596897c8e6dd339357b0c3b6468f00fcfa), this will cause launch time delays
+[02Dec2024 01:21:20.480] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:spawn_altar_6 is being run through DFU (hash 1c7d80afacded11397c8ccfe248d02548b77a914d7c533a6dddb40d3099fd3aa), this will cause launch time delays
+[02Dec2024 01:21:20.489] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:spawn_altar_7 is being run through DFU (hash 01c85ba7169e1df612f49b70fe026b175b58f107752353612aaf23522dff391c), this will cause launch time delays
+[02Dec2024 01:21:20.511] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:spawn_altar_5 is being run through DFU (hash e861188fb713fdf2913c60a9a32c092094751e255604a5ad1c7cf8dfea2bd389), this will cause launch time delays
+[02Dec2024 01:21:20.522] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:spawn_altar_4 is being run through DFU (hash 2b5a4b6eb37513ff2b3bc89197fc18ffa8a680fbcdc39863b7b4c1b773b21f6f), this will cause launch time delays
+[02Dec2024 01:21:22.718] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/7395, l='ServerLevel[world]', x=-573.35, y=59.28, z=231.70], dimensionLocationPath overworld
+[02Dec2024 01:21:22.718] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/7395, l='ServerLevel[world]', x=-573.35, y=59.28, z=231.70] in list []
+[02Dec2024 01:21:22.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[02Dec2024 01:21:39.047] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/7395, l='ServerLevel[world]', x=-573.35, y=59.28, z=231.70, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:21:41.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Acquire Hardware]
+[02Dec2024 01:21:56.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/7539, l='ServerLevel[world]', x=-573.35, y=59.28, z=231.70], dimensionLocationPath overworld
+[02Dec2024 01:21:56.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/7539, l='ServerLevel[world]', x=-573.35, y=59.28, z=231.70] in list []
+[02Dec2024 01:21:57.674] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ruin_1
+[02Dec2024 01:22:09.056] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[02Dec2024 01:22:09.060] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[02Dec2024 01:22:09.064] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[02Dec2024 01:22:09.167] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_2
+[02Dec2024 01:22:09.171] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_3
+[02Dec2024 01:22:09.175] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_1
+[02Dec2024 01:22:14.646] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/7815, l='ServerLevel[world]', x=-581.54, y=60.31, z=230.57], dimensionLocationPath overworld
+[02Dec2024 01:22:14.647] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/7815, l='ServerLevel[world]', x=-581.54, y=60.31, z=230.57] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1d73]
+[02Dec2024 01:22:17.397] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[02Dec2024 01:22:17.403] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[02Dec2024 01:22:17.419] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[02Dec2024 01:22:17.474] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[02Dec2024 01:22:22.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/7815, l='ServerLevel[world]', x=-581.54, y=60.51, z=230.52]
+[02Dec2024 01:22:22.558] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/7815, l='ServerLevel[world]', x=-581.46, y=60.86, z=230.43], dimensionLocationPath overworld
+[02Dec2024 01:22:22.558] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/7815, l='ServerLevel[world]', x=-581.46, y=60.86, z=230.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1d73]
+[02Dec2024 01:22:22.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/7815, l='ServerLevel[world]', x=-581.13, y=60.76, z=230.14]
+[02Dec2024 01:22:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Barrel Booty]
+[02Dec2024 01:22:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Barrel Booty]
+[02Dec2024 01:22:45.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement ['X' Marks the Spot]
+[02Dec2024 01:23:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement ['X' Marks the Spot]
+[02Dec2024 01:23:36.809] [Worker-Main-7/DEBUG] [ModernFix/]: Structure additionalstructures:maya_temple is being run through DFU (hash 50588d06e185afbc561334bac9002646b16421535aa8c80f63f49534aa3e0145), this will cause launch time delays
+[02Dec2024 01:23:49.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:23:49.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:25:13.459] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_2
+[02Dec2024 01:25:13.466] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:temple_1
+[02Dec2024 01:25:23.358] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/7539, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:23.391] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9060, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:23.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9060, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:23.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9060, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:23.511] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9072, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:23.511] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9072, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:23.615] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9072, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:23.669] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9073, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:23.674] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9073, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:23.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9073, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:23.809] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9076, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:23.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9076, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:23.915] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9076, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:23.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9080, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:23.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9080, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:24.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9080, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:24.120] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9087, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:24.122] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9087, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:24.209] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9087, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:24.262] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9090, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:24.262] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9090, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:24.363] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9090, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:24.410] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9094, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:24.410] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9094, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:24.510] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9094, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:24.560] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9100, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:24.560] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9100, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:24.664] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9100, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:24.708] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9105, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:24.710] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9105, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:24.811] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9105, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:24.873] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9108, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:24.873] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9108, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:24.979] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9108, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:25.005] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9119, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:25.005] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9119, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:25.147] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9119, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:25.159] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9121, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:25.159] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9121, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:25.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9121, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:25.313] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9122, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:25.313] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9122, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:25.408] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9122, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:25.457] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9126, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:25.458] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9126, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:25.560] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9126, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:25.602] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9127, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:25.602] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9127, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:25.710] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9127, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:25.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9129, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:25.772] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9129, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:25.872] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9129, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:25.954] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9130, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:25.954] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9130, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:26.008] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9130, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:26.056] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9132, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:26.056] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9132, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:26.154] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9132, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:26.215] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9137, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:26.215] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9137, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:26.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9137, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:26.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9140, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:26.354] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9140, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:26.461] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9140, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:26.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/9142, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10], dimensionLocationPath overworld
+[02Dec2024 01:25:26.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/9142, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10] in list []
+[02Dec2024 01:25:26.614] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/9142, l='ServerLevel[world]', x=-573.13, y=59.00, z=231.10, removed=UNLOADED_TO_CHUNK]
+[02Dec2024 01:25:33.911] [Worker-Main-7/DEBUG] [ModernFix/]: Structure supplementaries:way_sign is being run through DFU (hash 62ca40a11e6e653f66e0b6ba060d0cfdee43695b39a5a8cd2c1ec508d0f90fb1), this will cause launch time delays
+[02Dec2024 01:26:04.414] [Worker-Main-1/DEBUG] [ModernFix/]: Structure additionalstructures:scarecrow is being run through DFU (hash 4156c1f12a449f5f8e907fcc5652296300b57cb6311eabd7b430f3c2a7d55d51), this will cause launch time delays
+[02Dec2024 01:26:05.001] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[02Dec2024 01:26:36.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Alex's Caves]
+[02Dec2024 01:26:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Alex's Caves]
+[02Dec2024 01:27:28.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Monster Hunter]
+[02Dec2024 01:27:33.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [It Belongs in a Museum]
+[02Dec2024 01:27:40.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[02Dec2024 01:27:40.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Sweet Dreams]
+[02Dec2024 01:27:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Sweet Dreams]
+[02Dec2024 01:27:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [It Belongs in a Museum]
+[02Dec2024 01:28:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has completed the challenge [Free Willy]
+[02Dec2024 01:28:09.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has completed the challenge [Free Willy]
+[02Dec2024 01:28:15.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Mine? Mine? Mine?]
+[02Dec2024 01:28:26.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has made the advancement [Mine? Mine? Mine?]
+[02Dec2024 01:28:27.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[02Dec2024 01:28:27.810] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[02Dec2024 01:28:35.313] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_ruin_1
+[02Dec2024 01:28:43.300] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_2
+[02Dec2024 01:28:43.311] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oasis_1
+[02Dec2024 01:28:49.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:28:49.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:29:25.662] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[02Dec2024 01:29:40.555] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[02Dec2024 01:29:40.560] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_5
+[02Dec2024 01:29:40.570] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[02Dec2024 01:30:34.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has reached the goal [When the Stew is Sus]
+[02Dec2024 01:31:15.766] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-1147, y=68, z=43}
+[02Dec2024 01:31:15.825] [pool-7-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[02Dec2024 01:31:15.928] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[02Dec2024 01:31:15.939] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[02Dec2024 01:31:15.955] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[02Dec2024 01:31:15.962] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[02Dec2024 01:31:15.963] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[02Dec2024 01:31:15.964] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[02Dec2024 01:31:15.964] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[02Dec2024 01:31:15.971] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[02Dec2024 01:31:15.980] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[02Dec2024 01:31:15.986] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[02Dec2024 01:31:15.993] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[02Dec2024 01:31:16.003] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[02Dec2024 01:31:16.096] [Worker-Main-7/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[02Dec2024 01:31:19.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[02Dec2024 01:31:37.332] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[02Dec2024 01:31:58.605] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[02Dec2024 01:31:58.609] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[02Dec2024 01:31:58.613] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[02Dec2024 01:31:58.663] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
+[02Dec2024 01:31:58.666] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[02Dec2024 01:31:58.670] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[02Dec2024 01:31:58.673] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[02Dec2024 01:31:58.676] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[02Dec2024 01:31:58.680] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[02Dec2024 01:31:58.684] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
