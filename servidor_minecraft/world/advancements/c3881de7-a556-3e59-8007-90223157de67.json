@@ -3642,7 +3642,9 @@
       "minecraft:skeleton": "2024-12-03 01:17:39 +0000",
       "minecraft:spider": "2024-12-03 01:18:03 +0000",
       "minecraft:creeper": "2024-12-02 01:48:54 +0000",
-      "minecraft:zombie": "2024-12-02 01:48:44 +0000"
+      "minecraft:cave_spider": "2024-12-03 01:46:34 +0000",
+      "minecraft:zombie": "2024-12-02 01:48:44 +0000",
+      "minecraft:zombie_villager": "2024-12-03 01:48:54 +0000"
     },
     "done": false
   },
@@ -3910,6 +3912,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 01:21:30 +0000"
@@ -3919,6 +3933,18 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 01:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -3994,15 +4020,33 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/orange_terracotta_slab": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-12-03 01:33:36 +0000"
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-03 01:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-03 01:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-03 01:43:33 +0000"
     },
     "done": true
   },
@@ -4015,6 +4059,12 @@
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
     },
     "done": true
   },
@@ -4054,6 +4104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4066,9 +4122,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4079,9 +4147,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
     },
     "done": true
   },
@@ -4103,9 +4183,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_top": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-03 01:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-03 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4115,15 +4213,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-03 01:41:41 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-03 01:21:30 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2024-12-03 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
     },
     "done": true
   },
@@ -4136,6 +4258,12 @@
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_umbran": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
     },
     "done": true
   },
@@ -4205,6 +4333,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4214,6 +4348,18 @@
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2024-12-03 01:34:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4244,6 +4390,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
     },
     "done": true
   },
@@ -4313,6 +4465,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 01:47:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4325,9 +4483,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_cooler": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4340,6 +4510,12 @@
   "cfm:recipes/decorations/oak_table": {
     "criteria": {
       "has_planks": "2024-12-03 01:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 01:47:13 +0000"
     },
     "done": true
   },
@@ -4367,6 +4543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4376,6 +4558,12 @@
   "mcwdoors:recipes/bamboo": {
     "criteria": {
       "has_wood": "2024-12-03 01:21:30 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-12-03 01:47:31 +0000"
     },
     "done": true
   },
@@ -4403,15 +4591,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-03 01:34:01 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-03 01:47:31 +0000"
     },
     "done": true
   },
@@ -4427,9 +4633,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/combat/bomb": {
     "criteria": {
       "has_gunpowder": "2024-12-03 01:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-03 01:43:33 +0000"
     },
     "done": true
   },
@@ -4469,6 +4687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4481,6 +4705,30 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-03 01:46:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-03 01:34:01 +0000"
@@ -4490,6 +4738,18 @@
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
     },
     "done": true
   },
@@ -4517,6 +4777,24 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-03 01:30:12 +0000"
@@ -4532,6 +4810,12 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-03 01:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-03 01:41:41 +0000"
     },
     "done": true
   },
@@ -4577,9 +4861,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-03 01:29:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4619,6 +4921,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-03 01:21:30 +0000"
@@ -4643,6 +4951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4652,6 +4966,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-03 01:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 01:47:13 +0000"
     },
     "done": true
   },
@@ -4697,6 +5017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_cooler": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4709,15 +5035,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
     "criteria": {
       "has_cracked_stone_bricks": "2024-12-03 01:33:24 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_umbran_planks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-03 01:21:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:43:33 +0000"
     },
     "done": true
   },
@@ -4739,6 +5089,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-03 01:47:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2024-12-03 01:29:45 +0000"
@@ -4751,9 +5113,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-03 01:15:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4769,15 +5143,34 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_park_bench": {
     "criteria": {
       "has_planks": "2024-12-03 01:34:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2024-12-03 01:29:40 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2024-12-03 01:47:31 +0000",
+      "has_the_recipe": "2024-12-03 01:47:31 +0000"
     },
     "done": true
   },
@@ -4793,6 +5186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
@@ -4802,6 +5201,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-03 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4856,6 +5261,12 @@
   "barteringstation:recipes/decorations/bartering_station": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 01:21:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
@@ -4919,6 +5330,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-03 01:21:30 +0000"
@@ -4949,6 +5366,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-03 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-03 01:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-03 01:21:30 +0000"
@@ -4967,6 +5396,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
       "has_planks": "2024-12-03 01:29:45 +0000"
@@ -4976,6 +5411,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 01:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-03 01:42:31 +0000"
     },
     "done": true
   },
