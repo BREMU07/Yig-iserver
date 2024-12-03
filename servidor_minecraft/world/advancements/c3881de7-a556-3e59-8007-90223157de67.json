@@ -1121,6 +1121,7 @@
       "cooked_porkchop": "2024-12-02 01:20:58 +0000",
       "sweet_berries": "2024-12-02 01:10:17 +0000",
       "cooked_beef": "2024-12-02 01:53:43 +0000",
+      "baked_potato": "2024-12-03 20:44:02 +0000",
       "apple": "2024-12-03 03:38:16 +0000",
       "cooked_cod": "2024-12-02 01:47:26 +0000",
       "golden_apple": "2024-12-03 03:56:08 +0000",
@@ -3843,12 +3844,15 @@
   "croptopia:gather_all": {
     "criteria": {
       "bellpepper_seed": "2024-12-03 03:47:21 +0000",
+      "hops_seed": "2024-12-03 20:46:36 +0000",
+      "chile_pepper_seed": "2024-12-03 20:40:49 +0000",
       "rutabaga_seed": "2024-12-02 02:00:42 +0000"
     },
     "done": false
   },
   "croptopia:gather_savanna": {
     "criteria": {
+      "hops_seed": "2024-12-03 20:46:36 +0000",
       "rutabaga_seed": "2024-12-02 02:00:42 +0000"
     },
     "done": false
@@ -5699,6 +5703,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "chile_pepper_seed": "2024-12-03 20:40:49 +0000",
       "bellpepper_seed": "2024-12-03 03:47:21 +0000"
     },
     "done": false
@@ -5998,6 +6003,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/beer": {
+    "criteria": {
+      "has_hops": "2024-12-03 20:46:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-03 20:35:52 +0000"
@@ -6022,9 +6033,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/hops_seed": {
+    "criteria": {
+      "has_hops": "2024-12-03 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-03 20:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-03 20:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-03 20:41:48 +0000"
     },
     "done": true
   },

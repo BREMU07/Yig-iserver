@@ -568,6 +568,7 @@
       "minecraft:beach": "2024-12-03 04:15:14 +0000",
       "minecraft:river": "2024-12-03 04:11:03 +0000",
       "minecraft:snowy_plains": "2024-12-03 04:18:58 +0000",
+      "minecraft:stony_shore": "2024-12-03 20:42:21 +0000",
       "minecraft:snowy_taiga": "2024-12-03 03:33:54 +0000",
       "minecraft:dripstone_caves": "2024-12-03 03:49:37 +0000",
       "minecraft:grove": "2024-12-03 20:38:38 +0000",
@@ -2477,6 +2478,7 @@
       "cooked_beef": "2024-12-03 04:43:54 +0000",
       "beetroot_soup": "2024-12-03 04:24:18 +0000",
       "apple": "2024-12-03 20:21:55 +0000",
+      "potato": "2024-12-03 20:46:03 +0000",
       "bread": "2024-12-03 04:30:31 +0000",
       "rotten_flesh": "2024-12-03 03:54:21 +0000"
     },
@@ -6159,6 +6161,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-03 20:34:28 +0000"
@@ -6168,6 +6176,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 20:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
     },
     "done": true
   },
@@ -6183,6 +6197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-03 20:26:55 +0000"
@@ -6195,9 +6215,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-03 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
     },
     "done": true
   },
@@ -6243,9 +6287,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-12-03 20:22:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
     },
     "done": true
   },
@@ -6285,6 +6347,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-03 20:34:28 +0000"
@@ -6294,6 +6362,12 @@
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 20:35:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-03 20:43:07 +0000"
     },
     "done": true
   },
@@ -6339,6 +6413,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 20:47:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 20:35:30 +0000"
@@ -6354,6 +6446,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-03 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2024-12-03 20:41:57 +0000"
     },
     "done": true
   },
@@ -6423,6 +6521,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-03 20:34:28 +0000"
@@ -6435,15 +6545,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-03 20:36:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-03 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
     },
     "done": true
   },
@@ -6462,6 +6596,12 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_wild_armor_trim_smithing_template": "2024-12-03 20:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
     },
     "done": true
   },
@@ -6519,6 +6659,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-03 20:43:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-03 20:32:37 +0000"
@@ -6549,6 +6695,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-03 20:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 20:35:30 +0000"
@@ -6564,6 +6716,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-03 20:34:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 20:43:53 +0000"
     },
     "done": true
   },
