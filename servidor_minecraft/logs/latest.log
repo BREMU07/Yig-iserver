@@ -1280,3 +1280,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 03:43:56.275] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
 [03Dec2024 03:45:06.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Magic Writing]
 [03Dec2024 03:45:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Ice Bucket Challenge]
+[03Dec2024 03:49:04.951] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[03Dec2024 03:49:43.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Smashing Success]
+[03Dec2024 03:51:51.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 has made the advancement [Monster Hunter]
+[03Dec2024 03:53:39.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jan_M10 lost connection: Disconnected
+[03Dec2024 03:53:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 left the game
+[03Dec2024 03:53:57.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jan_M10[/127.169.167.134:40273] logged in with entity id 16612 at (-235.69999998807907, 12.0, -126.69999998807907)
+[03Dec2024 03:53:57.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 joined the game
+[03Dec2024 03:53:57.852] [Server thread/INFO] [Jade/]: Syncing config to Jan_M10 (9ca9e80f-ec07-30c1-bce2-4062833e902c)
+[03Dec2024 03:54:31.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[03Dec2024 03:58:06.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SirMorqui) moved too quickly! -2.3751420725241132,0.0,-10.117223127270336
+[03Dec2024 03:58:06.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SirMorqui) moved too quickly! -2.4621660857758343,0.0,-10.507581981192288
+[03Dec2024 03:58:06.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SirMorqui) moved too quickly! -2.5490608104994408,0.0,-10.897975408810908
+[03Dec2024 03:58:06.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SirMorqui) moved too quickly! -2.6358391755509274,0.0,-11.288399952756208

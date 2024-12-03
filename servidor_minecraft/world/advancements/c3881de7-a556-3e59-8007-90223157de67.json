@@ -1703,6 +1703,7 @@
       "field": "2024-12-02 01:43:24 +0000",
       "coniferous_forest": "2024-12-02 01:28:53 +0000",
       "forested_field": "2024-12-02 01:45:28 +0000",
+      "seasonal_orchard": "2024-12-03 03:51:42 +0000",
       "seasonal_forest": "2024-12-02 01:17:56 +0000",
       "fir_clearing": "2024-12-02 01:37:14 +0000",
       "pumpkin_patch": "2024-12-02 01:37:32 +0000",
@@ -3835,6 +3836,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "bellpepper_seed": "2024-12-03 03:47:21 +0000",
       "rutabaga_seed": "2024-12-02 02:00:42 +0000"
     },
     "done": false
@@ -5455,6 +5457,24 @@
     },
     "done": true
   },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-12-03 03:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-03 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-03 03:49:09 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-12-03 03:45:10 +0000"
@@ -5476,6 +5496,12 @@
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-03 03:41:37 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-12-03 03:49:43 +0000"
     },
     "done": true
   },
@@ -5509,6 +5535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-03 03:49:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/lemon_chicken": {
     "criteria": {
       "has_lemon": "2024-12-03 03:44:53 +0000"
@@ -5518,6 +5550,13 @@
   "croptopia:recipes/misc/apricot_jam": {
     "criteria": {
       "has_apricot": "2024-12-03 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2024-12-03 03:49:48 +0000",
+      "has_the_recipe": "2024-12-03 03:49:48 +0000"
     },
     "done": true
   },
@@ -5533,6 +5572,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/recipe_archeology_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 03:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-03 03:45:10 +0000"
@@ -5542,6 +5587,12 @@
   "croptopia:recipes/chicken_and_dumplings": {
     "criteria": {
       "has_chicken": "2024-12-03 03:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-03 03:49:09 +0000"
     },
     "done": true
   },
@@ -5569,9 +5620,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-12-03 03:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-03 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-03 03:49:45 +0000"
     },
     "done": true
   },
@@ -5599,6 +5662,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2024-12-03 03:49:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/lemon_sapling": {
     "criteria": {
       "has_lemon": "2024-12-03 03:44:53 +0000"
@@ -5611,15 +5680,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-03 03:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template": {
+    "criteria": {
+      "has_host_armor_trim_smithing_template": "2024-12-03 03:49:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/lemonade": {
     "criteria": {
       "has_lemon": "2024-12-03 03:44:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-03 03:49:09 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apricot_sapling": {
     "criteria": {
       "has_apricot": "2024-12-03 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2024-12-03 03:49:48 +0000"
     },
     "done": true
   },
@@ -5634,6 +5727,12 @@
       "has_leather": "2024-12-03 03:36:18 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-03 03:47:21 +0000"
+    },
+    "done": false
   },
   "lootr:100loot": {
     "criteria": {
@@ -5656,6 +5755,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2024-12-03 03:41:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-03 03:49:45 +0000"
     },
     "done": true
   },
