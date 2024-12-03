@@ -151,3 +151,6 @@
 [23:19:03] [Server thread/INFO]: Fesargo123[/127.7.225.221:37019] logged in with entity id 55657 at (225.97994765247816, -29.0, 219.62349188737315)
 [23:19:03] [Server thread/INFO]: Fesargo123 joined the game
 [23:24:28] [Server thread/INFO]: Fesargo123 has made the advancement [Diamonds!]
+[23:38:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=316, y=65, z=200} jd{x=317, y=63, z=201}
+[23:39:37] [Server thread/INFO]: Fesargo123 lost connection: Disconnected
+[23:39:37] [Server thread/INFO]: Fesargo123 left the game
