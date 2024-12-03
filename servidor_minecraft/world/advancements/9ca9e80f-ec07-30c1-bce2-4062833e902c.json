@@ -564,8 +564,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-03 03:27:24 +0000",
+      "minecraft:frozen_river": "2024-12-03 04:18:07 +0000",
       "minecraft:beach": "2024-12-03 04:15:14 +0000",
       "minecraft:river": "2024-12-03 04:11:03 +0000",
+      "minecraft:snowy_plains": "2024-12-03 04:18:58 +0000",
       "minecraft:snowy_taiga": "2024-12-03 03:33:54 +0000",
       "minecraft:dripstone_caves": "2024-12-03 03:49:37 +0000",
       "minecraft:forest": "2024-12-03 03:47:36 +0000",
@@ -2432,7 +2434,8 @@
       "muskeg": "2024-12-03 03:52:39 +0000",
       "maple_woods": "2024-12-03 04:12:02 +0000",
       "seasonal_forest": "2024-12-03 04:12:37 +0000",
-      "pumpkin_patch": "2024-12-03 03:51:41 +0000"
+      "pumpkin_patch": "2024-12-03 03:51:41 +0000",
+      "tundra": "2024-12-03 04:18:31 +0000"
     },
     "done": false
   },
@@ -2464,6 +2467,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2024-12-03 04:13:09 +0000",
+      "beetroot_soup": "2024-12-03 04:24:18 +0000",
       "rotten_flesh": "2024-12-03 03:54:21 +0000"
     },
     "done": false
@@ -3458,75 +3462,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin_seed": "2024-12-03 04:09:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/popcorn_from_corn": {
-    "criteria": {
-      "has_corn": "2024-12-03 04:12:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-03 04:08:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-03 04:15:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/burrito": {
-    "criteria": {
-      "has_the_recipe": "2024-12-03 04:12:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/corn_seed": {
-    "criteria": {
-      "has_corn": "2024-12-03 04:12:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/barley_seed": {
-    "criteria": {
-      "has_barley": "2024-12-03 04:11:48 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/corn_bread": {
-    "criteria": {
-      "has_corn": "2024-12-03 04:12:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/popcorn_from_smoking_corn": {
-    "criteria": {
-      "has_corn": "2024-12-03 04:12:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_shepherds_pie": {
-    "criteria": {
-      "has_corn": "2024-12-03 04:12:10 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/cabbage_seed": {
-    "criteria": {
-      "has_cabbage": "2024-12-03 04:12:02 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/borscht": {
-    "criteria": {
-      "has_cabbage": "2024-12-03 04:12:02 +0000"
     },
     "done": true
   },
@@ -3548,23 +3486,11 @@
     },
     "done": true
   },
-  "croptopia:recipes/campfire_popcorn": {
-    "criteria": {
-      "has_corn": "2024-12-03 04:12:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-03 04:08:27 +0000"
     },
     "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "strawberry_seed": "2024-12-03 04:14:02 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
@@ -3572,25 +3498,90 @@
     },
     "done": true
   },
-  "croptopia:recipes/corn_husk": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
-      "has_corn": "2024-12-03 04:12:10 +0000"
+      "has_diorite": "2024-12-03 04:08:27 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/mustard_seed": {
+  "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
-      "has_mustard": "2024-12-03 04:13:22 +0000"
+      "has_diorite": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-03 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-03 04:09:22 +0000"
     },
     "done": true
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2024-12-03 04:21:14 +0000",
+      "tomato_seed": "2024-12-03 04:17:10 +0000",
       "chile_pepper_seed": "2024-12-03 04:13:17 +0000",
       "cabbage_seed": "2024-12-03 04:12:02 +0000",
       "rutabaga_seed": "2024-12-03 04:12:12 +0000",
       "strawberry_seed": "2024-12-03 04:14:02 +0000",
+      "celery_seed": "2024-12-03 04:17:17 +0000",
       "barley_seed": "2024-12-03 04:11:47 +0000",
+      "squash_seed": "2024-12-03 04:21:21 +0000",
+      "blackberry_seed": "2024-12-03 04:16:32 +0000",
       "corn_seed": "2024-12-03 04:12:10 +0000",
       "mustard_seed": "2024-12-03 04:13:22 +0000"
     },
@@ -3602,15 +3593,20 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/strawberry_seed": {
+  "croptopia:gather_plains": {
     "criteria": {
-      "has_strawberry": "2024-12-03 04:14:02 +0000"
+      "sweetpotato_seed": "2024-12-03 04:21:14 +0000",
+      "chile_pepper_seed": "2024-12-03 04:13:17 +0000",
+      "cabbage_seed": "2024-12-03 04:12:02 +0000",
+      "corn_seed": "2024-12-03 04:12:10 +0000",
+      "mustard_seed": "2024-12-03 04:13:22 +0000",
+      "barley_seed": "2024-12-03 04:11:47 +0000"
     },
-    "done": true
+    "done": false
   },
-  "croptopia:recipes/yoghurt": {
+  "croptopia:recipes/misc/barley_seed": {
     "criteria": {
-      "has_strawberry": "2024-12-03 04:14:02 +0000"
+      "has_barley": "2024-12-03 04:11:48 +0000"
     },
     "done": true
   },
@@ -3620,21 +3616,93 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/rutabaga_seed": {
+  "croptopia:recipes/documentation": {
     "criteria": {
-      "has_rutabaga": "2024-12-03 04:12:12 +0000"
+      "has_crop": "2024-12-03 04:11:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_diorite": "2024-12-03 04:08:27 +0000"
+      "has_brown_mushroom": "2024-12-03 04:11:52 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/shaped_cornish_pasty": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_rutabaga": "2024-12-03 04:12:12 +0000"
+      "has_brown_mushroom": "2024-12-03 04:11:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_seed": {
+    "criteria": {
+      "has_cabbage": "2024-12-03 04:12:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/borscht": {
+    "criteria": {
+      "has_cabbage": "2024-12-03 04:12:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_roll": {
+    "criteria": {
+      "has_cabbage": "2024-12-03 04:12:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/goulash": {
+    "criteria": {
+      "has_cabbage": "2024-12-03 04:12:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_corn": {
+    "criteria": {
+      "has_corn": "2024-12-03 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_seed": {
+    "criteria": {
+      "has_corn": "2024-12-03 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_bread": {
+    "criteria": {
+      "has_corn": "2024-12-03 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_smoking_corn": {
+    "criteria": {
+      "has_corn": "2024-12-03 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2024-12-03 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2024-12-03 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2024-12-03 04:12:10 +0000"
     },
     "done": true
   },
@@ -3656,57 +3724,28 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/strawberry_jam": {
+  "croptopia:recipes/misc/rutabaga_seed": {
     "criteria": {
-      "has_strawberry": "2024-12-03 04:14:02 +0000"
+      "has_rutabaga": "2024-12-03 04:12:12 +0000"
     },
     "done": true
+  },
+  "croptopia:recipes/shaped_cornish_pasty": {
+    "criteria": {
+      "has_rutabaga": "2024-12-03 04:12:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "squash_seed": "2024-12-03 04:21:21 +0000",
+      "rutabaga_seed": "2024-12-03 04:12:12 +0000"
+    },
+    "done": false
   },
   "croptopia:recipes/pepperoni": {
     "criteria": {
       "has_pepper": "2024-12-03 04:13:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2024-12-03 04:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-03 04:11:52 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/fruit_smoothie": {
-    "criteria": {
-      "has_fruit": "2024-12-03 04:14:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/diorite_bridge_stair": {
-    "criteria": {
-      "has_planks": "2024-12-03 04:08:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/strawberry_smoothie": {
-    "criteria": {
-      "has_strawberry": "2024-12-03 04:14:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-12-03 04:08:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_molasses": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-03 04:15:27 +0000"
     },
     "done": true
   },
@@ -3716,33 +3755,90 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/cabbage_roll": {
+  "croptopia:recipes/paprika": {
     "criteria": {
-      "has_cabbage": "2024-12-03 04:12:02 +0000"
+      "has_chile_peppers": "2024-12-03 04:13:17 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/diorite": {
+  "croptopia:recipes/misc/mustard_seed": {
     "criteria": {
-      "has_planks": "2024-12-03 04:08:27 +0000"
+      "has_mustard": "2024-12-03 04:13:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "blackberry_seed": "2024-12-03 04:16:32 +0000",
+      "strawberry_seed": "2024-12-03 04:14:02 +0000",
+      "tomato_seed": "2024-12-03 04:17:10 +0000",
+      "celery_seed": "2024-12-03 04:17:17 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/strawberry_seed": {
+    "criteria": {
+      "has_strawberry": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/yoghurt": {
+    "criteria": {
+      "has_strawberry": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_jam": {
+    "criteria": {
+      "has_strawberry": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_smoothie": {
+    "criteria": {
+      "has_strawberry": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_strawberry": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_trifle": {
+    "criteria": {
+      "has_strawberry": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_ice_cream": {
+    "criteria": {
+      "has_strawberry": "2024-12-03 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 04:15:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 04:15:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-03 04:15:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/goulash": {
-    "criteria": {
-      "has_cabbage": "2024-12-03 04:12:02 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/diorite_bridge": {
-    "criteria": {
-      "has_planks": "2024-12-03 04:08:27 +0000"
     },
     "done": true
   },
@@ -3758,85 +3854,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+  "croptopia:recipes/spaghetti_squash": {
     "criteria": {
-      "has_diorite": "2024-12-03 04:08:27 +0000"
+      "has_squash": "2024-12-03 04:21:21 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/documentation": {
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
-      "has_crop": "2024-12-03 04:11:48 +0000"
+      "has_potato": "2024-12-03 04:23:27 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/fruit_salad": {
+  "croptopia:recipes/potato_chips": {
     "criteria": {
-      "has_strawberry": "2024-12-03 04:14:02 +0000"
+      "has_potato": "2024-12-03 04:23:27 +0000"
     },
     "done": true
   },
-  "croptopia:gather_savanna": {
+  "croptopia:recipes/shaped_roasted_squash": {
     "criteria": {
-      "rutabaga_seed": "2024-12-03 04:12:12 +0000"
+      "has_squash": "2024-12-03 04:21:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2024-12-03 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/celery_seed": {
+    "criteria": {
+      "has_celery": "2024-12-03 04:17:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2024-12-03 04:17:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-03 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2024-12-03 04:24:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-03 04:19:48 +0000"
     },
     "done": false
   },
-  "croptopia:recipes/shaped_trifle": {
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
     "criteria": {
-      "has_strawberry": "2024-12-03 04:14:02 +0000"
+      "has_sweetpotato": "2024-12-03 04:21:14 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/strawberry_ice_cream": {
+  "croptopia:recipes/shaped_ratatouille": {
     "criteria": {
-      "has_strawberry": "2024-12-03 04:14:02 +0000"
+      "has_squash": "2024-12-03 04:21:21 +0000"
     },
     "done": true
   },
-  "croptopia:gather_plains": {
+  "croptopia:recipes/misc/blackberry_jam": {
     "criteria": {
-      "chile_pepper_seed": "2024-12-03 04:13:17 +0000",
-      "cabbage_seed": "2024-12-03 04:12:02 +0000",
-      "corn_seed": "2024-12-03 04:12:10 +0000",
-      "mustard_seed": "2024-12-03 04:13:22 +0000",
-      "barley_seed": "2024-12-03 04:11:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-03 04:08:27 +0000"
+      "has_blackberry": "2024-12-03 04:16:33 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_diorite_bridge": {
+  "croptopia:recipes/misc/tomato_juice": {
     "criteria": {
-      "has_planks": "2024-12-03 04:08:27 +0000"
+      "has_tomato": "2024-12-03 04:17:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
-      "has_diorite": "2024-12-03 04:08:27 +0000"
+      "has_bread": "2024-12-03 04:22:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "croptopia:recipes/sweet_potato_fries": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-03 04:11:52 +0000"
+      "has_sweetpotatos": "2024-12-03 04:21:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "lootr:1chest": {
     "criteria": {
-      "has_diorite": "2024-12-03 04:08:27 +0000"
+      "opened_chest": "2024-12-03 04:19:48 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/paprika": {
+  "croptopia:recipes/veggie_salad": {
     "criteria": {
-      "has_chile_peppers": "2024-12-03 04:13:17 +0000"
+      "has_the_recipe": "2024-12-03 04:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-03 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-03 04:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-03 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/squash_seed": {
+    "criteria": {
+      "has_squash": "2024-12-03 04:21:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-03 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-03 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2024-12-03 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blackberry_seed": {
+    "criteria": {
+      "has_blackberry": "2024-12-03 04:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-03 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2024-12-03 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-03 04:23:27 +0000"
     },
     "done": true
   },

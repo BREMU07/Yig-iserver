@@ -5500,6 +5500,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2024-12-03 04:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-03 03:36:18 +0000"

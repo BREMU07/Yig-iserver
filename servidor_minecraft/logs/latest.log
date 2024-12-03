@@ -1342,3 +1342,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 04:18:20.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jan_M10 moved too quickly! -9.544959830237133,0.7508129212553172,-3.255699504254096
 [03Dec2024 04:18:20.703] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=76, z=-587} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [03Dec2024 04:18:20.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=341, y=76, z=-587}
+[03Dec2024 04:19:11.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jan_M10 moved too quickly! -5.705514826795877,-0.5800000131130219,8.237503829344803
+[03Dec2024 04:19:11.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
+[03Dec2024 04:19:17.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[03Dec2024 04:19:36.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Convergent Evolution...]
+[03Dec2024 04:19:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 has made the advancement ['X' Marks the Spot]
+[03Dec2024 04:24:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jan_M10> x:255 z:-370
+[03Dec2024 04:26:50.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 has made the advancement [Sweet Dreams]
+[03Dec2024 04:28:28.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SirMorqui) moved too quickly! 9.519070101240231,0.0,-4.123119229895565
+[03Dec2024 04:28:28.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SirMorqui) moved too quickly! 9.90021778973528,0.0,-4.237870752642721
+[03Dec2024 04:28:28.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SirMorqui) moved too quickly! 10.282843256948809,0.0,-4.346841784462413
