@@ -571,6 +571,7 @@
       "minecraft:stony_shore": "2024-12-03 02:17:33 +0000",
       "minecraft:snowy_taiga": "2024-12-02 02:06:02 +0000",
       "minecraft:grove": "2024-12-03 01:13:29 +0000",
+      "minecraft:jagged_peaks": "2024-12-03 05:02:40 +0000",
       "minecraft:cold_ocean": "2024-12-02 01:22:06 +0000",
       "minecraft:forest": "2024-12-02 01:17:44 +0000",
       "minecraft:deep_cold_ocean": "2024-12-02 01:25:30 +0000",
@@ -5924,15 +5925,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2024-12-03 04:55:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-03 04:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-03 04:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-03 04:54:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2024-12-03 04:55:28 +0000"
     },
     "done": true
   },
@@ -5948,21 +5961,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2024-12-03 04:54:23 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2024-12-03 04:55:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_rail": "2024-12-03 04:54:23 +0000"
+      "has_snowball": "2024-12-03 05:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-03 05:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-03 05:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-03 05:03:31 +0000"
     },
     "done": true
   },
