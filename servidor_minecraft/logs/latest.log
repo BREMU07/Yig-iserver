@@ -1235,3 +1235,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 20:32:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Teleported Striker2785 to Jan_M10]
 [03Dec2024 20:32:08.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [03Dec2024 20:32:09.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has reached the goal [Here They Come]
+[03Dec2024 20:32:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Teleported Striker2785 to SirMorqui]
+[03Dec2024 20:33:06.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set own game mode to Survival Mode]
+[03Dec2024 20:37:31.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[03Dec2024 20:38:37.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03Dec2024 20:38:37.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> a
+[03Dec2024 20:42:14.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03Dec2024 20:42:35.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[03Dec2024 20:42:50.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03Dec2024 20:42:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 has reached the goal [Fortuitous Militia]
+[03Dec2024 20:43:07.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 has made the advancement [When in Rome]
