@@ -1194,3 +1194,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 01:12:13.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
 [03Dec2024 01:12:13.878] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [03Dec2024 01:12:14.108] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[03Dec2024 01:12:16.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[03Dec2024 01:12:32.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3813ms or 76 ticks behind
+[03Dec2024 01:12:36.842] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[03Dec2024 01:12:36.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[03Dec2024 01:12:54.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[03Dec2024 01:12:55.980] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[03Dec2024 01:13:14.581] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[03Dec2024 01:13:14.582] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[03Dec2024 01:13:14.590] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[03Dec2024 01:13:17.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[03Dec2024 01:14:21.679] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[03Dec2024 01:14:26.370] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[03Dec2024 01:14:28.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[03Dec2024 01:14:28.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[03Dec2024 01:15:05.677] [Worker-Main-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[03Dec2024 01:15:41.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[03Dec2024 01:15:41.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Ambush]
+[03Dec2024 01:17:01.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[03Dec2024 01:17:01.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[03Dec2024 01:17:31.532] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[03Dec2024 01:17:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Not Today, Thank You]
+[03Dec2024 01:25:33.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [Penteconter]
+[03Dec2024 01:25:57.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03Dec2024 01:25:57.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] kill al the niggers
+[03Dec2024 01:27:32.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] morerira yigüirrazo
+[03Dec2024 01:28:22.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> GAY
+[03Dec2024 01:28:23.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Striker2785[/127.28.10.92:52969] logged in with entity id 6051 at (-1234.5089520644788, 64.0, -1292.5696775170368)
+[03Dec2024 01:28:24.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Striker2785 joined the game
+[03Dec2024 01:28:24.228] [Server thread/INFO] [Jade/]: Syncing config to Striker2785 (af4cb189-c735-38cb-943a-d2622ee6597e)
+[03Dec2024 01:28:38.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> que se sabe
+[03Dec2024 01:28:41.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> gran homosexual
+[03Dec2024 01:28:47.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> diay que trollk
+[03Dec2024 01:28:56.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set own game mode to Creative Mode]
+[03Dec2024 01:29:46.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set own game mode to Survival Mode]
+[03Dec2024 01:29:56.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[03Dec2024 01:30:23.302] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[03Dec2024 01:30:24.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> esta en la catacumba?
+[03Dec2024 01:30:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> o ya habia jugado?
+[03Dec2024 01:30:30.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> no
+[03Dec2024 01:30:44.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> no que
+[03Dec2024 01:30:53.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> estoy a la par suya
+[03Dec2024 01:31:06.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> recien lo veo
+[03Dec2024 01:31:25.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> pero jug+ó despues de ayer?
+[03Dec2024 01:31:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> no
+[03Dec2024 01:31:45.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> porque n lo veo
+[03Dec2024 01:31:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> gay
+[03Dec2024 01:31:55.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SirMorqui> no se
+[03Dec2024 01:31:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set own game mode to Spectator Mode]
+[03Dec2024 01:32:08.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Striker2785: Set own game mode to Survival Mode]
+[03Dec2024 01:32:11.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Striker2785> ya lo via
