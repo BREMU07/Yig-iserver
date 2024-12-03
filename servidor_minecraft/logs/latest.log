@@ -1315,3 +1315,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Dec2024 04:07:23.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-2363, y=74, z=-3852}
 [03Dec2024 04:07:24.105] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2363, y=75, z=-3851} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
 [03Dec2024 04:07:24.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-2363, y=75, z=-3851}
+[03Dec2024 04:09:53.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirMorqui has made the advancement [This Must be a Sign!]
+[03Dec2024 04:10:08.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 was shot by Skeleton
+[03Dec2024 04:10:08.175] [Server thread/INFO] [tombstone/]: The player Jan_M10 has successfully been saved
+[03Dec2024 04:10:30.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=76, z=-48}
+[03Dec2024 04:10:30.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=78, z=-47}
+[03Dec2024 04:10:30.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=78, z=-47}
+[03Dec2024 04:10:30.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=78, z=-47}
+[03Dec2024 04:10:30.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=75, z=-47}
+[03Dec2024 04:10:30.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=75, z=-47}
+[03Dec2024 04:10:31.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=76, z=-48}
+[03Dec2024 04:10:31.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=78, z=-48} BlockPos{x=-16, y=76, z=-48}
+[03Dec2024 04:10:34.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=76, z=-47} BlockPos{x=-16, y=75, z=-45}
+[03Dec2024 04:11:47.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 has made the advancement [An Extra Seedy Place]
+[03Dec2024 04:11:51.006] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[03Dec2024 04:13:33.329] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[03Dec2024 04:14:28.274] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[03Dec2024 04:16:11.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jan_M10 lost connection: Disconnected
+[03Dec2024 04:16:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 left the game
+[03Dec2024 04:16:21.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jan_M10[/127.169.167.134:44233] logged in with entity id 32428 at (609.9297040029911, 68.0, -136.47423962982282)
+[03Dec2024 04:16:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jan_M10 joined the game
+[03Dec2024 04:16:21.893] [Server thread/INFO] [Jade/]: Syncing config to Jan_M10 (9ca9e80f-ec07-30c1-bce2-4062833e902c)
+[03Dec2024 04:16:24.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[03Dec2024 04:18:16.528] [pool-7-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=341, y=76, z=-587}
+[03Dec2024 04:18:20.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
+[03Dec2024 04:18:20.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jan_M10 moved too quickly! -9.544959830237133,0.7508129212553172,-3.255699504254096
+[03Dec2024 04:18:20.703] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=76, z=-587} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[03Dec2024 04:18:20.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=341, y=76, z=-587}
