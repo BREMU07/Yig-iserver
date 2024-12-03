@@ -5621,6 +5621,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-03 04:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-03 03:45:10 +0000"

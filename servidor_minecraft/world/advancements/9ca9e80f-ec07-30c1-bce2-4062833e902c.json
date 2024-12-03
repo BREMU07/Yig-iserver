@@ -2468,6 +2468,7 @@
     "criteria": {
       "sweet_berries": "2024-12-03 04:13:09 +0000",
       "beetroot_soup": "2024-12-03 04:24:18 +0000",
+      "bread": "2024-12-03 04:30:31 +0000",
       "rotten_flesh": "2024-12-03 03:54:21 +0000"
     },
     "done": false
@@ -3866,6 +3867,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-03 04:29:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2024-12-03 04:23:27 +0000"
@@ -3875,6 +3882,12 @@
   "croptopia:recipes/shaped_roasted_squash": {
     "criteria": {
       "has_squash": "2024-12-03 04:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-03 04:26:50 +0000"
     },
     "done": true
   },
@@ -3920,6 +3933,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 04:29:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_ratatouille": {
     "criteria": {
       "has_squash": "2024-12-03 04:21:21 +0000"
@@ -3929,6 +3948,12 @@
   "croptopia:recipes/misc/blackberry_jam": {
     "criteria": {
       "has_blackberry": "2024-12-03 04:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 04:29:07 +0000"
     },
     "done": true
   },
@@ -3947,6 +3972,12 @@
   "croptopia:recipes/sweet_potato_fries": {
     "criteria": {
       "has_sweetpotatos": "2024-12-03 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-03 04:29:07 +0000"
     },
     "done": true
   },
@@ -3986,15 +4017,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-03 04:29:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2024-12-03 04:22:32 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 04:29:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2024-12-03 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 04:29:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_trampoline": {
+    "criteria": {
+      "has_wool": "2024-12-03 04:29:07 +0000"
     },
     "done": true
   },
@@ -4010,6 +4065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 04:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-03 04:23:27 +0000"
@@ -4019,6 +4080,18 @@
   "croptopia:recipes/campfire_baked_sweet_potato": {
     "criteria": {
       "has_sweetpotato": "2024-12-03 04:21:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-03 04:29:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-03 04:29:07 +0000"
     },
     "done": true
   },
