@@ -4655,9 +4655,201 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_planks": {
     "criteria": {
       "has_logs": "2024-12-03 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-03 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_umbran": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_the_recipe": "2024-12-03 01:40:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
     },
     "done": true
   },
@@ -4667,9 +4859,345 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-03 01:40:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-03 01:40:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_wood": {
     "criteria": {
       "has_log": "2024-12-03 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-03 01:32:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-03 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-12-03 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-03 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_umbran_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 01:34:31 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-03 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-03 01:40:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-03 01:37:31 +0000"
     },
     "done": true
   },
