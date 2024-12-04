@@ -26,3 +26,6 @@
 [02:26:51] [Server thread/INFO]: Done (18.184s)! For help, type "help"
 [02:32:56] [Server thread/INFO]: Fesargo123[/127.7.225.221:50357] logged in with entity id 3 at (337.75795070908003, 64.0, 217.6199613107461)
 [02:32:56] [Server thread/INFO]: Fesargo123 joined the game
+[02:36:42] [Server thread/INFO]: Fesargo123 has made the advancement [Take Aim]
+[02:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=356, y=57, z=197} jd{x=356, y=56, z=197}
+[02:45:44] [Server thread/INFO]: Fesargo123 has made the advancement [Fishy Business]
