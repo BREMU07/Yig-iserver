@@ -1,158 +1,28 @@
-[21:52:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:52:48] [ServerMain/INFO]: No existing world data, creating new world
-[21:52:49] [ServerMain/INFO]: Loaded 1290 recipes
-[21:52:49] [ServerMain/INFO]: Loaded 1399 advancements
-[21:52:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:52:50] [Server thread/INFO]: Loading properties
-[21:52:50] [Server thread/INFO]: Default game type: SURVIVAL
-[21:52:50] [Server thread/INFO]: Generating keypair
-[21:52:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:52:50] [Server thread/INFO]: Using epoll channel type
-[21:52:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:52:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:52:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:52:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:52:50] [Server thread/INFO]: Preparing level "world"
-[21:53:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:53:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:04] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:04] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:05] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:05] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:10] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:53:11] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[21:53:11] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[21:53:11] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[21:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[21:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[21:53:13] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[21:53:13] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[21:53:14] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[21:53:14] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[21:53:15] [Server thread/INFO]: Time elapsed: 12933 ms
-[21:53:15] [Server thread/INFO]: Done (24.265s)! For help, type "help"
-[21:54:33] [Server thread/INFO]: Striker2785[/127.28.10.92:39947] logged in with entity id 15 at (195.5, 67.0, 115.5)
-[21:54:33] [Server thread/INFO]: Striker2785 joined the game
-[21:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3701ms or 74 ticks behind
-[21:55:52] [Server thread/INFO]: Striker2785 has made the advancement [Stone Age]
-[21:55:54] [Server thread/INFO]: SirMorqui[/127.35.73.236:59345] logged in with entity id 801 at (182.5, 83.0, 108.5)
-[21:55:54] [Server thread/INFO]: SirMorqui joined the game
-[21:56:31] [Server thread/INFO]: Striker2785 has made the advancement [Getting an Upgrade]
-[21:57:01] [Server thread/INFO]: SirMorqui was slain by Striker2785
-[21:58:19] [Server thread/INFO]: SirMorqui has made the advancement [Stone Age]
-[21:58:28] [Server thread/INFO]: SirMorqui has made the advancement [Getting an Upgrade]
-[21:59:02] [Server thread/INFO]: Fesargo123[/127.7.225.221:32963] logged in with entity id 1837 at (199.5, 67.0, 105.5)
-[21:59:02] [Server thread/INFO]: Fesargo123 joined the game
-[22:03:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=270, y=72, z=218} jd{x=271, y=70, z=219}
-[22:05:08] [Server thread/INFO]: Fesargo123 has made the advancement [A Seedy Place]
-[22:05:41] [Server thread/INFO]: SirMorqui has made the advancement [Monster Hunter]
-[22:05:47] [Server thread/INFO]: Striker2785 has made the advancement [Acquire Hardware]
-[22:05:56] [Server thread/INFO]: Fesargo123 has made the advancement [Monster Hunter]
-[22:07:52] [Server thread/INFO]: Striker2785 has made the advancement [Monster Hunter]
-[22:08:41] [Server thread/INFO]: Striker2785 has made the advancement [Hot Stuff]
-[22:08:47] [Server thread/INFO]: SirMorqui has made the advancement [Acquire Hardware]
-[22:08:58] [Server thread/INFO]: SirMorqui has made the advancement [Isn't It Iron Pick]
-[22:10:05] [Server thread/INFO]: Striker2785 has made the advancement [Not Today, Thank You]
-[22:12:39] [Server thread/INFO]: Jan_M10[/127.169.167.134:40081] logged in with entity id 5630 at (199.5, 66.0, 103.5)
-[22:12:39] [Server thread/INFO]: Jan_M10 joined the game
-[22:14:03] [Server thread/INFO]: Jan_M10 has made the advancement [Stone Age]
-[22:14:17] [Server thread/INFO]: Jan_M10 has made the advancement [Getting an Upgrade]
-[22:15:50] [Server thread/INFO]: Striker2785 has made the advancement [We Need to Go Deeper]
-[22:15:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5665ms or 113 ticks behind
-[22:15:53] [Server thread/WARN]: SirMorqui moved too quickly! -2.1035733234704708,-8.891602351362636,4.220396524789223
-[22:17:12] [Server thread/INFO]: Fesargo123 has made the advancement [Stone Age]
-[22:17:42] [Server thread/INFO]: Striker2785 lost connection: Disconnected
-[22:17:42] [Server thread/INFO]: Striker2785 left the game
-[22:18:36] [Server thread/INFO]: Jan_M10 has made the advancement [Monster Hunter]
-[22:18:45] [Server thread/INFO]: Jan_M10 burned to death
-[22:19:01] [Server thread/INFO]: SirMorqui has made the advancement [Suit Up]
-[22:19:24] [Server thread/INFO]: Striker2785[/127.28.10.92:38905] logged in with entity id 8086 at (334.3457508811301, 64.0, 214.1569256536722)
-[22:19:24] [Server thread/INFO]: Striker2785 joined the game
-[22:20:08] [Server thread/INFO]: Fesargo123 has made the advancement [Getting an Upgrade]
-[22:21:28] [Server thread/INFO]: Jan_M10 has made the advancement [Acquire Hardware]
-[22:24:25] [Server thread/INFO]: SirMorqui has made the advancement [We Need to Go Deeper]
-[22:25:27] [Server thread/INFO]: Jan_M10 has made the advancement [Suit Up]
-[22:26:06] [Server thread/INFO]: Striker2785 has made the advancement [Sweet Dreams]
-[22:26:13] [Server thread/INFO]: SirMorqui has made the advancement [Sweet Dreams]
-[22:26:25] [Server thread/INFO]: Fesargo123 has made the advancement [Sweet Dreams]
-[22:26:58] [Server thread/INFO]: SirMorqui has made the advancement [Fishy Business]
-[22:28:14] [Server thread/INFO]: Jan_M10 has made the advancement [Sweet Dreams]
-[22:30:31] [Server thread/INFO]: Striker2785 lost connection: Disconnected
-[22:30:31] [Server thread/INFO]: Striker2785 left the game
-[22:31:42] [Server thread/INFO]: Striker2785[/127.28.10.92:42247] logged in with entity id 12368 at (326.35559390843514, 65.0, 229.95376486687474)
-[22:31:42] [Server thread/INFO]: Striker2785 joined the game
-[22:31:49] [Server thread/INFO]: [Not Secure] <Striker2785> a
-[22:32:05] [Server thread/INFO]: Striker2785 has made the advancement [Suit Up]
-[22:32:48] [Server thread/INFO]: Striker2785 has made the advancement [Isn't It Iron Pick]
-[22:33:36] [Server thread/INFO]: Jan_M10 has made the advancement [Fishy Business]
-[22:36:49] [Server thread/INFO]: SirMorqui has made the advancement [Ice Bucket Challenge]
-[22:37:24] [Server thread/INFO]: Jan_M10 lost connection: Disconnected
-[22:37:24] [Server thread/INFO]: Jan_M10 left the game
-[22:38:23] [Server thread/INFO]: Fesargo123 has made the advancement [Acquire Hardware]
-[22:39:02] [Server thread/INFO]: Jan_M10[/127.169.167.134:55329] logged in with entity id 15132 at (321.69999998807907, 63.0, 219.33236790346461)
-[22:39:02] [Server thread/INFO]: Jan_M10 joined the game
-[22:39:15] [Server thread/INFO]: Fesargo123 has made the advancement [Isn't It Iron Pick]
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 9.701999668254757,0.0,3.745544982225482
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 10.075188759408093,0.0,3.8895216580246483
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 10.44837864488943,0.0,4.033496464161715
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 10.821569245265891,0.0,4.1774695876029
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 11.194760489048008,0.0,4.3214411966178545
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 11.56795231189517,0.0,4.465411442649241
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 11.941144655900871,0.0,4.609380461995443
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 12.314337468949248,0.0,4.753348377325011
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 12.687530704135952,0.0,4.897315299039633
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 13.060724319247242,0.0,5.041281326500837
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 13.43391827629057,0.0,5.1852465491339785
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 13.807112541072797,0.0,5.329211047421865
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 14.180307082820036,0.0,5.473174893799069
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 14.553501873835671,0.0,5.617138153456665
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 14.926696889192954,0.0,5.761100885066611
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 15.299892106457605,0.0,5.905063141433715
-[22:39:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 15.673087505438957,0.0,6.049024970082257
-[22:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
-[22:42:56] [Server thread/INFO]: [Not Secure] <Jan_M10> X:265 Z:601
-[22:45:28] [Server thread/INFO]: SirMorqui has made the advancement [Not Today, Thank You]
-[22:45:36] [Server thread/INFO]: Fesargo123 has made the advancement [Suit Up]
-[22:45:47] [Server thread/INFO]: Jan_M10 has made the advancement [What a Deal!]
-[22:48:40] [Server thread/INFO]: Jan_M10 has made the advancement [A Seedy Place]
-[22:51:16] [Server thread/WARN]: Jan_M10 moved too quickly! -5.441918481609264,1.0013359791121417,-8.443248671651133
-[22:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
-[23:00:55] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 2.3621963477578447,8.171241461241152E-13,-10.12794425650327
-[23:00:55] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 2.453051423473198,8.242295734817162E-13,-10.51748759134557
-[23:00:55] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 2.5439065291791394,8.242295734817162E-13,-10.907031079799935
-[23:01:46] [Server thread/INFO]: Fesargo123 has made the advancement [Not Today, Thank You]
-[23:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[23:07:22] [Server thread/INFO]: Fesargo123 lost connection: Disconnected
-[23:07:22] [Server thread/INFO]: Fesargo123 left the game
-[23:07:30] [Server thread/INFO]: Fesargo123[/127.7.225.221:35641] logged in with entity id 46424 at (277.77261224278976, 30.0, 282.8424289685754)
-[23:07:30] [Server thread/INFO]: Fesargo123 joined the game
-[23:09:25] [Server thread/WARN]: Jan_M10 moved too quickly! -10.093523710157456,0.12129684053920187,-0.6994503859759789
-[23:09:34] [Server thread/INFO]: Striker2785 has made the advancement [What a Deal!]
-[23:13:14] [Server thread/INFO]: [Not Secure] <Striker2785> 230 650
-[23:14:16] [Server thread/INFO]: Striker2785 lost connection: Disconnected
-[23:14:16] [Server thread/INFO]: Striker2785 left the game
-[23:14:23] [Server thread/INFO]: SirMorqui has made the advancement [Diamonds!]
-[23:15:22] [Server thread/INFO]: SirMorqui has made the advancement [Best Friends Forever]
-[23:18:34] [Server thread/INFO]: Jan_M10 lost connection: Disconnected
-[23:18:34] [Server thread/INFO]: Jan_M10 left the game
-[23:18:56] [Server thread/INFO]: Fesargo123 lost connection: Disconnected
-[23:18:56] [Server thread/INFO]: Fesargo123 left the game
-[23:19:03] [Server thread/INFO]: Fesargo123[/127.7.225.221:37019] logged in with entity id 55657 at (225.97994765247816, -29.0, 219.62349188737315)
-[23:19:03] [Server thread/INFO]: Fesargo123 joined the game
-[23:24:28] [Server thread/INFO]: Fesargo123 has made the advancement [Diamonds!]
-[23:38:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=316, y=65, z=200} jd{x=317, y=63, z=201}
-[23:39:37] [Server thread/INFO]: Fesargo123 lost connection: Disconnected
-[23:39:37] [Server thread/INFO]: Fesargo123 left the game
-[23:54:00] [Server thread/INFO]: SirMorqui lost connection: Disconnected
-[23:54:00] [Server thread/INFO]: SirMorqui left the game
+[02:26:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:26:30] [ServerMain/INFO]: Loaded 1290 recipes
+[02:26:31] [ServerMain/INFO]: Loaded 1399 advancements
+[02:26:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:26:32] [Server thread/INFO]: Loading properties
+[02:26:32] [Server thread/INFO]: Default game type: SURVIVAL
+[02:26:32] [Server thread/INFO]: Generating keypair
+[02:26:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:26:32] [Server thread/INFO]: Using epoll channel type
+[02:26:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:26:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:26:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:26:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:26:32] [Server thread/INFO]: Preparing level "world"
+[02:26:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:50] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[02:26:51] [Server thread/INFO]: Time elapsed: 4201 ms
+[02:26:51] [Server thread/INFO]: Done (18.184s)! For help, type "help"
+[02:32:56] [Server thread/INFO]: Fesargo123[/127.7.225.221:50357] logged in with entity id 3 at (337.75795070908003, 64.0, 217.6199613107461)
+[02:32:56] [Server thread/INFO]: Fesargo123 joined the game
