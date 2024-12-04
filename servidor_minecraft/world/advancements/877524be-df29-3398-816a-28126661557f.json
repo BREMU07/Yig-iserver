@@ -10,6 +10,7 @@
       "minecraft:beach": "2024-12-03 21:59:03 +0000",
       "minecraft:forest": "2024-12-03 21:59:49 +0000",
       "minecraft:ocean": "2024-12-04 03:12:29 +0000",
+      "minecraft:deep_ocean": "2024-12-04 03:47:06 +0000",
       "minecraft:river": "2024-12-03 22:06:08 +0000",
       "minecraft:savanna": "2024-12-04 02:55:22 +0000",
       "minecraft:plains": "2024-12-03 22:02:00 +0000"
@@ -1341,6 +1342,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-12-04 03:56:07 +0000",
       "minecraft:chicken": "2024-12-04 02:53:03 +0000"
     },
     "done": false
