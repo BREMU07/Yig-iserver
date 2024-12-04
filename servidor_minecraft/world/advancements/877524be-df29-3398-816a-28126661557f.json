@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:beach": "2024-12-03 21:59:03 +0000",
       "minecraft:forest": "2024-12-03 21:59:49 +0000",
+      "minecraft:ocean": "2024-12-04 03:12:29 +0000",
       "minecraft:river": "2024-12-03 22:06:08 +0000",
       "minecraft:savanna": "2024-12-04 02:55:22 +0000",
       "minecraft:plains": "2024-12-03 22:02:00 +0000"
@@ -215,6 +216,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-04 03:21:40 +0000",
       "minecraft:skeleton": "2024-12-03 23:01:49 +0000",
       "minecraft:spider": "2024-12-03 23:10:54 +0000",
       "minecraft:zombie": "2024-12-03 22:05:56 +0000",
@@ -1265,6 +1267,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-04 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-04 03:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-04 02:54:21 +0000"
@@ -1331,6 +1345,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-04 03:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-04 03:08:13 +0000"
@@ -1346,6 +1366,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-04 02:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-04 03:17:31 +0000"
     },
     "done": true
   },
@@ -1373,6 +1399,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-04 03:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-04 02:45:45 +0000"
@@ -1385,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-04 03:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-04 03:08:13 +0000"
@@ -1394,6 +1432,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-04 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-04 03:17:31 +0000"
     },
     "done": true
   },
