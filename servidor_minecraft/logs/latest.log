@@ -1,142 +1,23 @@
-[02:26:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:26:30] [ServerMain/INFO]: Loaded 1290 recipes
-[02:26:31] [ServerMain/INFO]: Loaded 1399 advancements
-[02:26:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:26:32] [Server thread/INFO]: Loading properties
-[02:26:32] [Server thread/INFO]: Default game type: SURVIVAL
-[02:26:32] [Server thread/INFO]: Generating keypair
-[02:26:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:26:32] [Server thread/INFO]: Using epoll channel type
-[02:26:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:26:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:26:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:26:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:26:32] [Server thread/INFO]: Preparing level "world"
-[02:26:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:26:50] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[02:26:51] [Server thread/INFO]: Time elapsed: 4201 ms
-[02:26:51] [Server thread/INFO]: Done (18.184s)! For help, type "help"
-[02:32:56] [Server thread/INFO]: Fesargo123[/127.7.225.221:50357] logged in with entity id 3 at (337.75795070908003, 64.0, 217.6199613107461)
-[02:32:56] [Server thread/INFO]: Fesargo123 joined the game
-[02:36:42] [Server thread/INFO]: Fesargo123 has made the advancement [Take Aim]
-[02:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=356, y=57, z=197} jd{x=356, y=56, z=197}
-[02:45:44] [Server thread/INFO]: Fesargo123 has made the advancement [Fishy Business]
-[02:53:03] [Server thread/INFO]: Fesargo123 has made the advancement [The Parrots and the Bats]
-[03:11:49] [Server thread/INFO]: [Not Secure] <Fesargo123> '30 450
-[03:21:40] [Server thread/INFO]: Fesargo123 has made the advancement [Voluntary Exile]
-[03:29:46] [Server thread/INFO]: SirMorqui[/127.35.73.236:53259] logged in with entity id 16571 at (809.1034927959198, 67.0, 1974.4995119368668)
-[03:29:46] [Server thread/INFO]: SirMorqui joined the game
-[03:29:53] [Server thread/INFO]: [Not Secure] <SirMorqui> que se sabe
-[03:30:48] [Server thread/INFO]: [Not Secure] <Fesargo123> casi me matan JAJAJJA
-[03:30:53] [Server thread/INFO]: [Not Secure] <SirMorqui> xd
-[03:31:47] [Server thread/INFO]: [Not Secure] <Fesargo123> un hp baby zombie
-[03:32:07] [Server thread/INFO]: [Not Secure] <Fesargo123> porque me da pereza buscar una aldea, y quiero ver si un zombie me dropea una zanahoria
-[03:32:23] [Server thread/INFO]: Villager cmk['Villager'/16752, l='ServerLevel[world]', x=799.42, y=64.00, z=1884.63] died, message: 'Villager was slain by Zombie'
-[03:32:29] [Server thread/INFO]: [Not Secure] <SirMorqui> esta legal
-[03:32:31] [Server thread/INFO]: Villager cmk['Villager'/16747, l='ServerLevel[world]', x=800.74, y=64.00, z=1884.74] died, message: 'Villager was slain by Zombie'
-[03:35:52] [Server thread/INFO]: [Not Secure] <SirMorqui> usted sigue en el spawn?
-[03:36:01] [Server thread/INFO]: [Not Secure] <Fesargo123> mae si
-[03:36:05] [Server thread/INFO]: [Not Secure] <Fesargo123> mas o menos
-[03:36:11] [Server thread/INFO]: [Not Secure] <Fesargo123> estoy por el portal
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.25005098266217374
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.7061325568880648
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 1.1750401663344974
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 1.6508107315038387
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.4702269977152582
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.951634731130639
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.47297676972073077
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.9531177767141799
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.47009573934997206
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.9491356898678305
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.46967883146749045
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.9484119190186675
-[03:38:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.46342544703270505
-[03:38:56] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.9208692679646902
-[03:38:56] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.4365284734448096
-[03:38:56] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.8680915760321568
-[03:38:56] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.39012019102995055
-[03:38:56] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.7034346438999819
-[03:41:00] [Server thread/INFO]: [Not Secure] <Fesargo123> disc?
-[03:42:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.2864334778554962
-[03:42:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 0.7358772722876665
-[03:42:55] [Server thread/WARN]: Horse (vehicle of SirMorqui) moved wrongly! 1.2007203958305581
-[03:43:13] [Server thread/INFO]: daniel[/127.96.178.74:55017] logged in with entity id 25724 at (191.5, 68.0, 103.5)
-[03:43:13] [Server thread/INFO]: daniel joined the game
-[03:43:25] [Server thread/INFO]: daniel lost connection: Disconnected
-[03:43:25] [Server thread/INFO]: daniel left the game
-[03:44:47] [Server thread/INFO]: [Not Secure] <Fesargo123> quien es daniel? lol
-[03:45:10] [Server thread/INFO]: [Not Secure] <SirMorqui> ni idea
-[03:45:15] [Server thread/INFO]: [Not Secure] <SirMorqui> no es su compa?
-[03:47:08] [Server thread/INFO]: Villager cmk['Cleric'/26135, l='ServerLevel[world]', x=800.50, y=64.00, z=1881.89] died, message: 'Cleric was slain by Zombie'
-[03:47:16] [Server thread/INFO]: Villager cmk['Cleric'/26047, l='ServerLevel[world]', x=800.48, y=64.00, z=1883.03] died, message: 'Cleric was slain by Zombie'
-[03:47:23] [Server thread/INFO]: Villager cmk['Villager'/26134, l='ServerLevel[world]', x=798.81, y=64.00, z=1884.51] died, message: 'Villager was slain by Zombie'
-[03:47:30] [Server thread/INFO]: Villager cmk['Villager'/26045, l='ServerLevel[world]', x=798.16, y=64.00, z=1884.69] died, message: 'Villager was slain by Zombie'
-[04:05:39] [Server thread/INFO]: [Not Secure] <Fesargo123> zzz
-[04:05:42] [Server thread/INFO]: [Not Secure] <Fesargo123> mae nono
-[04:05:47] [Server thread/INFO]: [Not Secure] <SirMorqui> xd
-[04:05:50] [Server thread/INFO]: [Not Secure] <Fesargo123> yo no le dije a ese daniel
-[04:05:59] [Server thread/INFO]: [Not Secure] <Fesargo123> le deberia decir la verdad
-[04:08:40] [Server thread/INFO]: [Not Secure] <Fesargo123> ya le dije
-[04:09:11] [Server thread/INFO]: [Not Secure] <SirMorqui> que esta haciendo usted ahorita?
-[04:09:30] [Server thread/INFO]: [Not Secure] <Fesargo123> estoy moviendo a unos animales
-[04:09:34] [Server thread/INFO]: [Not Secure] <Fesargo123> para comida
-[04:12:57] [Server thread/INFO]: [Not Secure] <Fesargo123> usted_
-[04:13:03] [Server thread/INFO]: [Not Secure] <Fesargo123> ?
-[04:13:06] [Server thread/INFO]: [Not Secure] <SirMorqui> construyendo
-[04:13:12] [Server thread/INFO]: [Not Secure] <Fesargo123> opa
-[04:13:17] [Server thread/INFO]: [Not Secure] <Fesargo123> casita?
-[04:13:27] [Server thread/INFO]: [Not Secure] <SirMorqui> mas o menos
-[04:13:38] [Server thread/INFO]: [Not Secure] <SirMorqui> estoy construyendo unas varas en una aldea
-[04:16:55] [Server thread/INFO]: [Not Secure] <Fesargo123> zzz
-[04:17:05] [Server thread/INFO]: [Not Secure] <Fesargo123> lo que dejó Braulio?
-[04:17:11] [Server thread/INFO]: [Not Secure] <SirMorqui> mae no
-[04:17:15] [Server thread/INFO]: [Not Secure] <SirMorqui> en otra
-[04:17:27] [Server thread/INFO]: [Not Secure] <SirMorqui> yo no esclavizo aldeanos
-[04:17:31] [Server thread/INFO]: [Not Secure] <SirMorqui> porque no se la verdad
-[04:17:34] [Server thread/INFO]: [Not Secure] <SirMorqui> xd
-[04:17:39] [Server thread/INFO]: [Not Secure] <Fesargo123> :(
-[04:17:46] [Server thread/INFO]: [Not Secure] <Fesargo123> ahh bueno
-[04:17:49] [Server thread/INFO]: [Not Secure] <Fesargo123> eso se aprende
-[04:18:01] [Server thread/INFO]: [Not Secure] <Fesargo123> escencial para la vida
-[04:26:28] [Server thread/INFO]: [Not Secure] <Fesargo123> ya vuelvo
-[04:26:30] [Server thread/INFO]: Fesargo123 lost connection: Disconnected
-[04:26:30] [Server thread/INFO]: Fesargo123 left the game
-[04:27:04] [Server thread/INFO]: SirMorqui lost connection: Disconnected
-[04:27:04] [Server thread/INFO]: SirMorqui left the game
-[04:27:15] [Server thread/INFO]: SirMorqui[/127.35.73.236:38353] logged in with entity id 51874 at (905.3449162803156, 49.0, 2862.489843353206)
-[04:27:15] [Server thread/INFO]: SirMorqui joined the game
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 7.520547860221541,0.0,-7.064532938917637
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 7.829064254947298,0.0,-7.317918173273938
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 8.138161136012968,0.0,-7.57070393311642
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 8.447792312369529,0.0,-7.822935095248795
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 8.757913835339195,0.0,-8.074655058828284
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 9.068483774377455,0.0,-8.325905894992047
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 9.37946439199527,0.0,-8.576725465899926
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 9.690821720728309,0.0,-8.82714784749487
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 10.00252518985917,0.0,-9.077203704399835
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 10.314544916458772,0.0,-9.326923652259666
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 10.626854002166056,0.0,-9.576335245153587
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 10.939428242181975,0.0,-9.8254632798903
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 11.252243482903395,0.0,-10.074333091081826
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 11.565280351647289,0.0,-10.32296446239343
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 11.87851904744025,0.0,-10.571378216608082
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 12.191944114965963,0.0,-10.819590073019754
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 12.50553927888086,0.0,-11.067617202065776
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 12.819289891375774,0.0,-11.315475055277147
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 13.133182769423229,0.0,-11.563177537167576
-[04:29:51] [Server thread/WARN]: Oak Boat (vehicle of SirMorqui) moved too quickly! 13.44720368646449,0.0,-11.810740184873339
-[04:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[04:30:03] [Server thread/WARN]: Trying to set block entity dql@9334436 at position jd{x=1349, y=58, z=3208}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
-[04:33:10] [Server thread/INFO]: SirMorqui lost connection: Disconnected
-[04:33:10] [Server thread/INFO]: SirMorqui left the game
-[04:38:59] [Server thread/INFO]: Fesargo123[/127.211.68.224:33521] logged in with entity id 56322 at (318.03594039494914, 63.0, 220.75380461235616)
-[04:38:59] [Server thread/INFO]: Fesargo123 joined the game
-[05:02:01] [Server thread/INFO]: Fesargo123 has made the advancement [Ice Bucket Challenge]
+[01:23:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:23:29] [ServerMain/INFO]: Loaded 1290 recipes
+[01:23:29] [ServerMain/INFO]: Loaded 1399 advancements
+[01:23:30] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:23:30] [Server thread/INFO]: Loading properties
+[01:23:30] [Server thread/INFO]: Default game type: SURVIVAL
+[01:23:30] [Server thread/INFO]: Generating keypair
+[01:23:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:23:31] [Server thread/INFO]: Using epoll channel type
+[01:23:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:23:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:23:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:23:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:23:31] [Server thread/INFO]: Preparing level "world"
+[01:23:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:23:46] [Server thread/INFO]: Time elapsed: 1491 ms
+[01:23:46] [Server thread/INFO]: Done (14.899s)! For help, type "help"
+[01:25:26] [Server thread/INFO]: Fesargo123[/127.7.225.221:40561] logged in with entity id 4 at (317.56370035163854, 63.0, 221.97954483742575)
+[01:25:26] [Server thread/INFO]: Fesargo123 joined the game
+[01:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
