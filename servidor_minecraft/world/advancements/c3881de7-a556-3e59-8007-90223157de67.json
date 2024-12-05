@@ -498,6 +498,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-03 22:15:03 +0000",
+      "minecraft:enderman": "2024-12-05 22:50:21 +0000",
       "minecraft:spider": "2024-12-03 22:25:51 +0000",
       "minecraft:zombie": "2024-12-03 22:05:41 +0000",
       "minecraft:creeper": "2024-12-03 22:32:07 +0000",
@@ -1900,6 +1901,12 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "cod_bucket": "2024-12-05 22:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-05 23:00:29 +0000"
     },
     "done": true
   },
