@@ -14,6 +14,7 @@
       "minecraft:deep_dark": "2024-12-05 22:23:21 +0000",
       "minecraft:ocean": "2024-12-04 03:12:29 +0000",
       "minecraft:deep_ocean": "2024-12-04 03:47:06 +0000",
+      "minecraft:cherry_grove": "2024-12-05 22:30:25 +0000",
       "minecraft:river": "2024-12-03 22:06:08 +0000",
       "minecraft:dripstone_caves": "2024-12-05 22:01:18 +0000",
       "minecraft:savanna": "2024-12-04 02:55:22 +0000",
@@ -1797,6 +1798,18 @@
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2024-12-05 21:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-05 22:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-05 22:28:03 +0000"
     },
     "done": true
   },
