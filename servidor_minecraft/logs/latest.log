@@ -21,3 +21,4 @@
 [00:38:30] [Server thread/INFO]: SirMorqui[/127.35.73.236:43579] logged in with entity id 3 at (822.2402370676352, 64.0, 1965.5853592201217)
 [00:38:30] [Server thread/INFO]: SirMorqui joined the game
 [00:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:47:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=736, y=61, z=1884} jd{x=736, y=62, z=1884}
