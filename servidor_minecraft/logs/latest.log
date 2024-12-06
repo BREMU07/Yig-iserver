@@ -28,3 +28,7 @@
 [01:05:17] [Server thread/INFO]: [Not Secure] <SirMorqui> suave
 [01:05:54] [Server thread/INFO]: SirMorqui lost connection: Disconnected
 [01:05:54] [Server thread/INFO]: SirMorqui left the game
+[01:09:21] [Server thread/INFO]: SirMorqui[/127.35.73.236:60771] logged in with entity id 6772 at (969.7610452067526, -54.0, 2022.0720129787967)
+[01:09:21] [Server thread/INFO]: SirMorqui joined the game
+[01:12:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1143, y=121, z=-1104} jd{x=-1145, y=119, z=-1105}
+[01:12:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1143, y=121, z=-1104} jd{x=-1145, y=119, z=-1105}
