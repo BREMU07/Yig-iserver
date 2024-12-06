@@ -22,6 +22,8 @@
       "minecraft:ocean": "2024-12-03 22:38:53 +0000",
       "minecraft:jungle": "2024-12-03 23:01:45 +0000",
       "minecraft:savanna": "2024-12-03 22:38:04 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 23:31:28 +0000",
+      "minecraft:wooded_badlands": "2024-12-06 23:44:11 +0000",
       "minecraft:plains": "2024-12-03 22:01:19 +0000"
     },
     "done": false
@@ -440,6 +442,7 @@
       "cooked_mutton": "2024-12-03 22:03:48 +0000",
       "cooked_cod": "2024-12-03 22:43:38 +0000",
       "cooked_beef": "2024-12-03 22:53:29 +0000",
+      "melon_slice": "2024-12-06 23:32:21 +0000",
       "cooked_salmon": "2024-12-03 22:38:15 +0000"
     },
     "done": false
@@ -2770,9 +2773,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-06 22:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-06 22:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-06 22:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-06 22:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-06 22:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-06 22:20:01 +0000"
     },
     "done": true
   },
@@ -2800,30 +2833,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-06 22:08:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-06 22:23:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-06 22:20:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-06 22:08:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-06 22:20:52 +0000"
@@ -2833,12 +2842,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-06 22:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-12-06 22:16:02 +0000"
     },
     "done": true
   },
@@ -2872,12 +2875,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-06 22:16:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-06 22:20:52 +0000"
@@ -2893,6 +2890,342 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-06 22:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 22:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 23:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-06 23:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-06 23:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-06 23:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 23:50:00 +0000"
     },
     "done": true
   },
