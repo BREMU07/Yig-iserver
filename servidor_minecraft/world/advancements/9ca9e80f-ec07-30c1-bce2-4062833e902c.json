@@ -9,27 +9,31 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-06 01:51:02 +0000",
       "minecraft:snowy_slopes": "2024-12-06 01:24:31 +0000",
-      "minecraft:beach": "2024-12-03 22:12:40 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-03 23:05:31 +0000",
-      "minecraft:dark_forest": "2024-12-03 22:52:34 +0000",
       "minecraft:forest": "2024-12-03 22:13:00 +0000",
       "minecraft:taiga": "2024-12-03 22:51:46 +0000",
+      "minecraft:lush_caves": "2024-12-06 03:02:30 +0000",
+      "minecraft:ice_spikes": "2024-12-03 23:14:12 +0000",
+      "minecraft:frozen_river": "2024-12-06 01:23:57 +0000",
+      "minecraft:ocean": "2024-12-06 02:19:03 +0000",
+      "minecraft:jungle": "2024-12-06 23:23:40 +0000",
+      "minecraft:cherry_grove": "2024-12-03 22:46:18 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-06 01:42:40 +0000",
+      "minecraft:wooded_badlands": "2024-12-06 23:42:19 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 23:21:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-07 01:01:29 +0000",
+      "minecraft:savanna_plateau": "2024-12-07 00:57:50 +0000",
+      "minecraft:beach": "2024-12-03 22:12:40 +0000",
+      "minecraft:dark_forest": "2024-12-03 22:52:34 +0000",
+      "minecraft:stony_peaks": "2024-12-07 00:57:00 +0000",
       "minecraft:sparse_jungle": "2024-12-07 00:56:05 +0000",
       "minecraft:river": "2024-12-03 22:26:44 +0000",
       "minecraft:lukewarm_ocean": "2024-12-06 23:35:26 +0000",
       "minecraft:stony_shore": "2024-12-06 01:35:20 +0000",
       "minecraft:snowy_plains": "2024-12-06 01:24:36 +0000",
-      "minecraft:lush_caves": "2024-12-06 03:02:30 +0000",
-      "minecraft:ice_spikes": "2024-12-03 23:14:12 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-03 22:52:11 +0000",
-      "minecraft:frozen_river": "2024-12-06 01:23:57 +0000",
-      "minecraft:ocean": "2024-12-06 02:19:03 +0000",
-      "minecraft:jungle": "2024-12-06 23:23:40 +0000",
-      "minecraft:cherry_grove": "2024-12-03 22:46:18 +0000",
       "minecraft:meadow": "2024-12-06 02:10:00 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-06 01:42:40 +0000",
-      "minecraft:wooded_badlands": "2024-12-06 23:42:19 +0000",
-      "minecraft:bamboo_jungle": "2024-12-06 23:21:59 +0000",
+      "minecraft:savanna": "2024-12-07 00:58:28 +0000",
       "minecraft:plains": "2024-12-03 22:25:39 +0000"
     },
     "done": false
@@ -606,6 +610,7 @@
       "rotten_flesh": "2024-12-06 02:52:43 +0000",
       "glow_berries": "2024-12-07 00:32:29 +0000",
       "cooked_cod": "2024-12-06 02:25:15 +0000",
+      "cooked_beef": "2024-12-07 01:12:28 +0000",
       "melon_slice": "2024-12-06 23:54:14 +0000",
       "cooked_salmon": "2024-12-03 22:28:20 +0000",
       "carrot": "2024-12-06 02:08:13 +0000"
@@ -2283,6 +2288,42 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-07 00:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-07 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-07 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-07 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-07 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-07 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-07 00:58:49 +0000"
     },
     "done": true
   },
