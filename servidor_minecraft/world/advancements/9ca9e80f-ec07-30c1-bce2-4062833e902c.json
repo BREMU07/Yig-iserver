@@ -2364,6 +2364,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-07 02:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-07 01:44:46 +0000"
@@ -2398,6 +2404,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2024-12-07 02:13:29 +0000",
+      "minecraft:chicken": "2024-12-07 02:22:42 +0000",
       "minecraft:pig": "2024-12-07 02:14:31 +0000"
     },
     "done": false
