@@ -599,6 +599,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-06 23:42:24 +0000",
+      "cooked_chicken": "2024-12-07 00:08:27 +0000",
       "rotten_flesh": "2024-12-06 02:52:43 +0000",
       "cooked_cod": "2024-12-06 02:25:15 +0000",
       "melon_slice": "2024-12-06 23:54:14 +0000",
@@ -1999,6 +2000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-07 00:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 23:30:43 +0000"
@@ -2227,6 +2234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-07 00:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-06 23:22:03 +0000"
@@ -2242,6 +2255,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-07 00:08:15 +0000"
     },
     "done": true
   },
