@@ -14,6 +14,7 @@
       "minecraft:dark_forest": "2024-12-03 22:52:34 +0000",
       "minecraft:forest": "2024-12-03 22:13:00 +0000",
       "minecraft:taiga": "2024-12-03 22:51:46 +0000",
+      "minecraft:sparse_jungle": "2024-12-07 00:56:05 +0000",
       "minecraft:river": "2024-12-03 22:26:44 +0000",
       "minecraft:lukewarm_ocean": "2024-12-06 23:35:26 +0000",
       "minecraft:stony_shore": "2024-12-06 01:35:20 +0000",
@@ -365,12 +366,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2024-12-07 00:16:43 +0000",
       "minecraft:skeleton": "2024-12-03 22:18:36 +0000",
       "minecraft:witch": "2024-12-06 02:51:14 +0000",
       "minecraft:spider": "2024-12-06 01:17:34 +0000",
       "minecraft:zombie": "2024-12-03 22:20:34 +0000",
       "minecraft:creeper": "2024-12-06 01:17:39 +0000",
-      "minecraft:zombie_villager": "2024-12-06 02:48:54 +0000"
+      "minecraft:zombie_villager": "2024-12-06 02:48:54 +0000",
+      "minecraft:slime": "2024-12-07 00:48:35 +0000"
     },
     "done": false
   },
@@ -601,6 +604,7 @@
       "bread": "2024-12-06 23:42:24 +0000",
       "cooked_chicken": "2024-12-07 00:08:27 +0000",
       "rotten_flesh": "2024-12-06 02:52:43 +0000",
+      "glow_berries": "2024-12-07 00:32:29 +0000",
       "cooked_cod": "2024-12-06 02:25:15 +0000",
       "melon_slice": "2024-12-06 23:54:14 +0000",
       "cooked_salmon": "2024-12-03 22:28:20 +0000",
@@ -1988,9 +1992,39 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "crying_obsidian": "2024-12-06 23:36:34 +0000"
+      "has_iron_nugget": "2024-12-06 23:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-06 23:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-06 23:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 23:22:03 +0000"
     },
     "done": true
   },
@@ -2000,51 +2034,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-07 00:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-06 23:30:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-06 23:22:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_chicken": "2024-12-06 23:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2024-12-06 23:37:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-06 23:54:03 +0000"
+      "has_melon": "2024-12-06 23:22:06 +0000"
     },
     "done": true
   },
@@ -2054,33 +2052,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "has_obsidian": "2024-12-06 23:37:38 +0000"
+      "has_cocoa": "2024-12-06 23:23:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget": {
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-06 23:36:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-06 23:54:03 +0000"
+      "has_andesite": "2024-12-06 23:30:43 +0000"
     },
     "done": true
   },
@@ -2090,45 +2070,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 23:30:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2024-12-06 23:53:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2024-12-06 23:37:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-06 23:37:38 +0000"
     },
     "done": true
   },
@@ -2144,45 +2088,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-12-06 23:22:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 23:30:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2024-12-06 23:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2024-12-06 23:23:40 +0000"
     },
     "done": true
   },
@@ -2204,51 +2112,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 23:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-06 23:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-06 23:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
+  "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
-      "has_wheat": "2024-12-06 23:09:41 +0000"
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
-      "has_bamboo": "2024-12-06 23:22:03 +0000"
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
-      "has_wheat": "2024-12-06 23:09:41 +0000"
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/food/golden_apple": {
     "criteria": {
-      "has_obsidian": "2024-12-06 23:37:38 +0000"
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "minecraft:recipes/combat/golden_boots": {
     "criteria": {
-      "has_rail": "2024-12-07 00:08:15 +0000"
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
-      "has_bamboo": "2024-12-06 23:22:03 +0000"
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/combat/golden_sword": {
     "criteria": {
-      "has_andesite": "2024-12-06 23:30:43 +0000"
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
     },
     "done": true
   },
@@ -2258,21 +2202,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-06 23:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-06 23:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-06 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-06 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-06 23:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-06 23:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-06 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-06 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-06 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-07 00:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-07 00:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-07 00:08:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_iron_nugget": "2024-12-06 23:09:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-06 23:37:23 +0000"
+      "has_spider_eye": "2024-12-07 00:48:35 +0000"
     },
     "done": true
   },
