@@ -3316,9 +3316,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "shot_arrow": "2024-12-07 03:08:27 +0000"
+      "bred": "2024-12-07 02:28:50 +0000"
     },
     "done": true
   },
@@ -3328,9 +3328,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "bred": "2024-12-07 02:28:50 +0000"
+      "shot_arrow": "2024-12-07 03:08:27 +0000"
     },
     "done": true
   },
