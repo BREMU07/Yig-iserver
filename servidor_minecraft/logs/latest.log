@@ -1,136 +1,21 @@
-[00:39:19] [Server thread/INFO]: Villager cmk['Villager'/43682, l='ServerLevel[world]', x=799.38, y=64.00, z=1882.11] died, message: 'Villager was slain by Zombie'
-[00:40:15] [Server thread/INFO]: Jan_M10 lost connection: Disconnected
-[00:40:15] [Server thread/INFO]: Jan_M10 left the game
-[00:40:22] [Server thread/INFO]: Jan_M10[/127.169.167.134:38599] logged in with entity id 44870 at (2107.4552103926835, -10.0, 946.5871627037315)
-[00:40:22] [Server thread/INFO]: Jan_M10 joined the game
-[00:53:17] [Server thread/INFO]: Jan_M10 lost connection: Disconnected
-[00:53:17] [Server thread/INFO]: Jan_M10 left the game
-[00:53:56] [Server thread/INFO]: Jan_M10[/127.169.167.134:49141] logged in with entity id 50752 at (2078.1498036869275, -10.0, 951.0895680888054)
-[00:53:56] [Server thread/INFO]: Jan_M10 joined the game
-[01:00:25] [Server thread/INFO]: SirMorqui lost connection: Disconnected
-[01:00:25] [Server thread/INFO]: SirMorqui left the game
-[01:01:09] [Server thread/INFO]: SirMorqui[/127.35.73.236:42001] logged in with entity id 54431 at (756.5826571151363, 65.0, 1927.9734401361543)
-[01:01:09] [Server thread/INFO]: SirMorqui joined the game
-[01:10:25] [Server thread/INFO]: Jan_M10 lost connection: Disconnected
-[01:10:25] [Server thread/INFO]: Jan_M10 left the game
-[01:10:33] [Server thread/INFO]: Jan_M10[/127.169.167.134:54259] logged in with entity id 58650 at (2076.300000011921, -9.125, 948.4828424513236)
-[01:10:33] [Server thread/INFO]: Jan_M10 joined the game
-[01:30:43] [Server thread/INFO]: Jan_M10 has made the advancement [Cover Me with Diamonds]
-[01:32:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=836, y=64, z=1993} jd{x=836, y=63, z=1992}
-[01:34:46] [Server thread/INFO]: Jan_M10 has made the advancement [Enchanter]
-[01:35:05] [Server thread/INFO]: SirMorqui has made the advancement [Voluntary Exile]
-[01:41:10] [Server thread/INFO]: Jan_M10 has made the advancement [We Need to Go Deeper]
-[01:43:03] [Server thread/INFO]: Jan_M10 has made the advancement [A Terrible Fortress]
-[01:44:46] [Server thread/INFO]: Jan_M10 has made the advancement [Not Today, Thank You]
-[02:03:10] [Server thread/INFO]: [Not Secure] <SirMorqui> no habia techo?
-[02:03:15] [Server thread/INFO]: [Not Secure] <Jan_M10> no
-[02:03:18] [Server thread/INFO]: [Not Secure] <SirMorqui> o usted lo quitò?
-[02:03:25] [Server thread/INFO]: [Not Secure] <Jan_M10> no nunca hubo
-[02:05:20] [Server thread/INFO]: Villager cmk['Villager'/68012, l='ServerLevel[world]', x=800.44, y=64.00, z=1884.11] died, message: 'Villager was slain by Zombie'
-[02:10:27] [Server thread/INFO]: [Not Secure] <SirMorqui> que hace
-[02:10:55] [Server thread/INFO]: [Not Secure] <Jan_M10> estaba buscando como armar un yunque
-[02:11:05] [Server thread/INFO]: [Not Secure] <SirMorqui> ocupa bloques de hierro
-[02:11:09] [Server thread/INFO]: [Not Secure] <Jan_M10> no me acordaba de la receta
-[02:11:40] [Server thread/INFO]: [Not Secure] <Jan_M10> tiene libros?
-[02:11:44] [Server thread/INFO]: [Not Secure] <SirMorqui> no
-[02:13:20] [Server thread/INFO]: [Not Secure] <SirMorqui> para que ocup
-[02:13:29] [Server thread/INFO]: Jan_M10 has made the advancement [The Parrots and the Bats]
-[02:13:33] [Server thread/INFO]: [Not Secure] <Jan_M10> para encantar
-[02:18:00] [Server thread/INFO]: Jan_M10 has made the advancement [Best Friends Forever]
-[02:18:06] [Server thread/INFO]: [Not Secure] <SirMorqui> epico
-[02:18:08] [Server thread/INFO]: [Not Secure] <SirMorqui> que sacò
-[02:18:24] [Server thread/INFO]: [Not Secure] <Jan_M10> nada mas dome un caballo
-[02:18:26] [Server thread/INFO]: [Not Secure] <SirMorqui> un gato?
-[02:18:28] [Server thread/INFO]: [Not Secure] <SirMorqui> ahhhh
-[02:18:29] [Server thread/INFO]: [Not Secure] <Jan_M10> pero es demasiado lento
-[02:18:43] [Server thread/INFO]: [Not Secure] <SirMorqui> apareos
-[02:18:47] [Server thread/INFO]: [Not Secure] <SirMorqui> hasta sacar uno rapido
-[02:18:56] [Server thread/INFO]: [Not Secure] <Jan_M10> ocupo uno negro xd
-[02:19:08] [Server thread/INFO]: [Not Secure] <SirMorqui> xd
-[02:19:26] [Server thread/INFO]: [Not Secure] <Jan_M10> ahora si
-[02:19:38] [Server thread/INFO]: [Not Secure] <SirMorqui> carrera
-[02:21:32] [Server thread/INFO]: [Not Secure] <Jan_M10> no le hizo puerta ?
-[02:21:38] [Server thread/INFO]: [Not Secure] <SirMorqui> si
-[02:21:45] [Server thread/INFO]: [Not Secure] <SirMorqui> pero no lo hice yo
-[02:23:12] [Server thread/INFO]: SirMorqui lost connection: Disconnected
-[02:23:12] [Server thread/INFO]: SirMorqui left the game
-[02:26:33] [Server thread/INFO]: SirMorqui[/127.35.73.236:40035] logged in with entity id 74119 at (783.4074557019253, 60.0, 1962.699999988079)
-[02:26:33] [Server thread/INFO]: SirMorqui joined the game
-[02:26:42] [Server thread/INFO]: SirMorqui lost connection: Disconnected
-[02:26:42] [Server thread/INFO]: SirMorqui left the game
-[02:27:11] [Server thread/INFO]: SirMorqui[/127.35.73.236:38763] logged in with entity id 74187 at (788.03580171354, 63.9375, 1962.522173553706)
-[02:27:11] [Server thread/INFO]: SirMorqui joined the game
-[02:28:27] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.3105988478200743
-[02:28:27] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.8608958433562748
-[02:28:27] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.4258848935148762
-[02:28:27] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5685043656139896
-[02:28:27] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.147032875578816
-[02:28:27] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5761134431509163
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.1588699136243577
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5784175286257778
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5788459524894733
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.1630607603426597
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5791978558816027
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5792634900460598
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.1636820508367691
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5785801071549486
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5576999400361728
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.495558461751898
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.429874526229014
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.8177242277552068
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.357473336278872
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.7065826045866288
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.33674410286471357
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.33287785450784213
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6688265709010466
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.3297021539281104
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.3291098480333403
-[02:28:28] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.32879291695826396
-[02:28:29] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6980873333045565
-[02:28:29] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.4486142733505858
-[02:28:29] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.508613559868536
-[02:28:29] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.051684634563344
-[02:28:29] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.553618884436446
-[02:28:29] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.8525994166657256
-[02:28:50] [Server thread/INFO]: SirMorqui has made the advancement [The Parrots and the Bats]
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.2579355958519045
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6424119809994409
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.9931212265980776
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.32202684087542366
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6450000708991865
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.30718585193767467
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.30441783114565624
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6179688311488007
-[02:30:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.30214420451261503
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6144786322356595
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.30149324094145413
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6140958065443556
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.3046428842969817
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.3072630152748843
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6294909447819919
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.3139415846942484
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.31518721725228716
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.7321818598270511
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.46123240272004296
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.9772144692883558
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5346008316407733
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.096305808569241
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.559914092623103
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5646353165932396
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.0813524191864872
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6387932528266447
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.0071695287324474
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.5268162025681704
-[02:30:05] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.2769540552728813
-[02:30:06] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.43082613883666454
-[02:47:19] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.4858750105413492
-[02:48:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.26685809862044607
-[02:48:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 0.6776416457543064
-[02:48:04] [Server thread/WARN]: Horse (vehicle of Jan_M10) moved wrongly! 1.166622738321962
-[02:51:54] [Server thread/INFO]: Jan_M10 lost connection: Disconnected
-[02:51:54] [Server thread/INFO]: Jan_M10 left the game
-[03:06:30] [Server thread/INFO]: Jan_M10[/127.169.167.134:33695] logged in with entity id 83896 at (806.2375000119209, 69.5625, 1989.699999988079)
-[03:06:30] [Server thread/INFO]: Jan_M10 joined the game
-[03:08:27] [Server thread/INFO]: SirMorqui has made the advancement [Take Aim]
-[03:20:47] [Server thread/INFO]: Jan_M10 has made the advancement [Into Fire]
-[03:30:37] [Server thread/INFO]: Jan_M10 has made the advancement [Local Brewery]
+[01:55:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:55:38] [ServerMain/INFO]: Loaded 1290 recipes
+[01:55:39] [ServerMain/INFO]: Loaded 1399 advancements
+[01:55:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:55:40] [Server thread/INFO]: Loading properties
+[01:55:40] [Server thread/INFO]: Default game type: SURVIVAL
+[01:55:40] [Server thread/INFO]: Generating keypair
+[01:55:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:55:41] [Server thread/INFO]: Using epoll channel type
+[01:55:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:55:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:55:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:55:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:55:41] [Server thread/INFO]: Preparing level "world"
+[01:55:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:55:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:57] [Server thread/INFO]: Time elapsed: 2173 ms
+[01:55:57] [Server thread/INFO]: Done (16.334s)! For help, type "help"
