@@ -2728,27 +2728,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-10 02:40:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-10 03:04:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2024-12-10 02:38:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_porkchop": "2024-12-10 03:04:20 +0000"
+      "has_smithing_trim_template": "2024-12-10 02:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-10 02:40:34 +0000"
     },
     "done": true
   },
@@ -2758,15 +2752,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-10 03:04:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "has_smithing_trim_template": "2024-12-10 02:38:05 +0000"
+      "has_porkchop": "2024-12-10 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-10 03:04:20 +0000"
     },
     "done": true
   },
